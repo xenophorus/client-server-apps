@@ -1,0 +1,8 @@
+{
+  "action": "msg",
+  "encoding": "ascii",
+  "from": "account_name",
+  "message": "message",
+  "number": 13,
+  "to": "account_name"
+}
