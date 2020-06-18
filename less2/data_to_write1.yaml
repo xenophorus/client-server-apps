@@ -1,0 +1,11 @@
+action:
+- act1
+- act2
+- act3
+testing: yaml
+to:
+- to1
+- to2
+- to3
+var2: 23456
+variable1: 12345
