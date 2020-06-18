@@ -25,6 +25,14 @@ import csv
 import chardet
 
 
+def write_to_csv(arr):
+    print(arr)
+    with open('task.csv', 'w', newline='') as f:
+        f_write = csv.writer(f)
+        for line in arr:
+            f_write.writerow(line)
+
+
 def check_el(line):
     file_check = re.search(r'info_[\d]+\.txt', line)
     return file_check
@@ -35,23 +43,30 @@ def get_data(files):
     os_date_list = []
     os_code_list = []
     os_type_list = []
+    captions = ['Название ОС', 'Дата установки', 'Версия ОС', 'Код продукта']
+    main_list = [captions, os_prod_list, os_date_list, os_code_list, os_type_list]
+
+    def array_fill(arr, line):
+        arr.append(re.split(r'[+:\s]{2,}', line)[1])
 
     def check_line(ln):
         if re.search(r'^Название[\w\s.:]+$', ln):
-            os_prod_list.append(ln)
+            array_fill(os_prod_list, ln.strip())
         if re.search(r'^Дата\s[\w:]+[\s]+[0-9.,:\s]+$', ln):
-            os_date_list.append(ln)
+            array_fill(os_date_list, ln.strip())
         if re.search(r'^Код[\w:\s-]+$', ln):
-            os_code_list.append(ln)
+            array_fill(os_code_list, ln.strip())
         if re.search(r'^Версия\sОС:[\s]+[\s\d\w.]+$', ln):
-            os_type_list.append(ln)
+            array_fill(os_type_list, ln.strip())  # Ту
 
     for file in files:
-        with open('./files/' + file) as fl:
-            for line in fl:
-                check_line(line)
+        with open('./files/' + file, 'rb') as fl:
+            enc = chardet.detect(bytes(fl.read(300))).get('encoding')
+            with open('./files/' + file, 'rb') as dec_file:
+                for line in dec_file:
+                    check_line(line.decode(enc))
 
-    print()
+    write_to_csv(main_list)
 
 
 def start():

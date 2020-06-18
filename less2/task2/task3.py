@@ -10,3 +10,19 @@
 # allow_unicode = True;
 # Реализовать считывание данных из созданного файла и проверить,
 # совпадают ли они с исходными.
+
+import yaml
+
+my_dict = dict(a=[1, 2, 4, 6, 8, 9], b=465,
+               c={'item': 'CPU', 'quantity': 12, 'price': '1000€',
+                  'buyer': 'Ingrǐd', 'date': '2020.06.15'})
+
+with open('task2.yaml', 'w') as yfile:
+    yaml.dump(my_dict, yfile, default_flow_style=True, allow_unicode=True)
+
+with open('task2.yaml') as f:
+    f_content = yaml.load(f, Loader=yaml.FullLoader)
+    print(my_dict)
+    print(f_content)
+    print(my_dict == f_content)
+
