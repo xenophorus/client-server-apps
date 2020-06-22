@@ -10,11 +10,11 @@ def create_message():
         return time.asctime()
 
     def set_msg():
-        return input('Enter your message\n:')
+        return input('Enter your message:\n')
 
     def get_encoding(msgs):
-        msgs = bytes(str(set(msgs)))
-        return chardet.detect(msgs)
+        msgs = str(frozenset(msgs)).encode()
+        return chardet.detect(msgs).get('encoding')
 
     msg_action = 'message'
     msg_time = set_time()
@@ -23,7 +23,10 @@ def create_message():
     msg = set_msg()
     msg_encoding = get_encoding(msg)
 
-    return msg
+    message = dict(action=msg_action, time=msg_time, to=msg_to_user,
+                   from_user=msg_from_user, message=msg, enc=msg_encoding)
+
+    return message
 
 
 def create_client(server, port):
@@ -31,10 +34,11 @@ def create_client(server, port):
     s.connect((server, port))
 
     while True:
-        msg = create_message().encode('utf-8')
+        message = create_message()
+        msg = json.dumps(message).encode('utf-8')
         s.send(msg)
         answer, addr = s.recvfrom(1024)
-        print(answer.decode('utf-8'), addr)
+        print(answer.decode('utf-8'))
 
 
 def show_help():

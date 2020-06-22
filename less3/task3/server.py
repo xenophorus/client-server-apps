@@ -3,6 +3,16 @@ import json
 from socket import SOCK_STREAM, socket
 
 
+def decoder(data):
+    data = json.loads(data.decode('utf-8'))
+    time = data.get('time')
+    to = data.get('to')
+    from_user = data.get('from_user')
+    message = data.get('message')
+    print(f'{time}: from {from_user} to {to}\n\t'
+          f'{message}')
+
+
 def create_server(host, port):
     s = socket(type=SOCK_STREAM)
     s.bind((host, port))
@@ -11,10 +21,9 @@ def create_server(host, port):
     try:
         while True:
             data = conn.recv(1024)
-            print(data.decode('utf-8'))
-            code = 200
-            ans = 'Message from {} to {} received'.encode('utf-8')
-            conn.sendto(ans, addr)
+            decoder(data)
+            ans = 'Message received'.encode('utf-8')
+            conn.send(ans)
     finally:
         conn.close()
 
