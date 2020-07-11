@@ -1,6 +1,7 @@
 import sys
 import json
 from socket import SOCK_STREAM, socket
+
 import funx
 import server_logger
 
@@ -26,7 +27,7 @@ def create_server(addr):
             ans = '200'.encode('utf-8')
             conn.send(ans)
     finally:
-        server_logger.LOG.info(f'Connection closed')
+        server_logger.LOG.info('Connection closed')
         conn.close()
 
 
@@ -41,4 +42,3 @@ if __name__ == '__main__':
     server_logger.logging.basicConfig(filename='log/server.log')
     server_logger.LOG.info('server started')
     main(sys.argv)
-

@@ -1,7 +1,3 @@
-import client_logger
-import sys
-
-
 def show_help():
     print('Possible parameters:'
           '\n\t-h: host'
@@ -24,12 +20,4 @@ def parse_args(args):
             if i % 2 == 0:
                 print(f'{args[i]} is incorrect argument. Skipped')
     addr = (host, port)
-    client_logger.LOG.info(f'address to connect {addr}')
     return addr
-
-
-if __name__ == '__main__':
-    print('This program is being run by itself')
-else:
-    print(__name__)
-

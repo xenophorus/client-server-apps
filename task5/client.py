@@ -1,9 +1,11 @@
 import sys
-import json
 import time
-from socket import SOCK_STREAM, socket
 import chardet
+import json
+from socket import SOCK_STREAM, socket
+
 import funx
+
 import client_logger
 
 
@@ -38,7 +40,6 @@ def create_client(addr):
         client_logger.LOG.info('Connection established')
     except ConnectionRefusedError:
         client_logger.LOG.critical('Connection refused!')
-
 
     while True:
         message = create_message()
