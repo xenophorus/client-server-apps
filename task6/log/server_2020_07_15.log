@@ -1,0 +1,24 @@
+2020-07-15 15:53:26,332 INFO server server started
+2020-07-15 15:54:34,719 INFO server Connection closed
+2020-07-15 15:56:06,172 INFO decorators Отработала фуккция create_message with () called by create_client
+2020-07-15 15:56:07,963 INFO decorators Отработала фуккция create_message with () called by create_client
+2020-07-15 15:56:09,211 INFO decorators Отработала фуккция create_message with () called by create_client
+2020-07-15 15:56:10,755 INFO decorators Отработала фуккция create_message with () called by create_client
+2020-07-15 15:56:21,795 INFO server server started
+2020-07-15 15:56:34,724 INFO decorators Отработала фуккция create_message with () called by create_client
+2020-07-15 15:56:34,724 INFO server Connection closed
+2020-07-15 15:56:38,811 INFO decorators Отработала фуккция create_message with () called by create_client
+2020-07-15 16:03:43,739 INFO server server started
+2020-07-15 16:03:55,921 INFO server Wed Jul 15 16:03:47 2020: from Nick to Alex
+2020-07-15 16:03:56,010 INFO decorators Отработала фуккция decoder with (b'{"action": "message", "time": "Wed Jul 15 16:03:47 2020", "to": "Alex", "from_user": "Nick", "message": "asdasdasd", "enc": "ascii"}',) called by create_server
+2020-07-15 16:03:58,281 INFO server Wed Jul 15 16:03:56 2020: from Nick to Alex
+2020-07-15 16:03:58,282 INFO decorators Отработала фуккция decoder with (b'{"action": "message", "time": "Wed Jul 15 16:03:56 2020", "to": "Alex", "from_user": "Nick", "message": "asdasdasdasdasd", "enc": "ascii"}',) called by create_server
+2020-07-15 16:03:59,634 INFO server Wed Jul 15 16:03:58 2020: from Nick to Alex
+2020-07-15 16:03:59,634 INFO decorators Отработала фуккция decoder with (b'{"action": "message", "time": "Wed Jul 15 16:03:58 2020", "to": "Alex", "from_user": "Nick", "message": "asdasd", "enc": "ascii"}',) called by create_server
+2020-07-15 16:04:02,242 INFO server Wed Jul 15 16:03:59 2020: from Nick to Alex
+2020-07-15 16:04:02,243 INFO decorators Отработала фуккция decoder with (b'{"action": "message", "time": "Wed Jul 15 16:03:59 2020", "to": "Alex", "from_user": "Nick", "message": "asdasdasdasdasd", "enc": "ascii"}',) called by create_server
+2020-07-15 16:11:48,116 INFO server server started
+2020-07-15 16:11:54,986 INFO server Wed Jul 15 16:11:51 2020: from Nick to Alex
+2020-07-15 16:11:55,075 INFO decorators Отработала фуккция decoder with (b'{"action": "message", "time": "Wed Jul 15 16:11:51 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0447\\u0441\\u043c\\u0438\\u0447\\u0441\\u043c\\u0438\\u0447\\u0441\\u043c\\u0438", "enc": "utf-8"}',) called by create_server
+2020-07-15 16:11:57,218 INFO server Wed Jul 15 16:11:55 2020: from Nick to Alex
+2020-07-15 16:11:57,219 INFO decorators Отработала фуккция decoder with (b'{"action": "message", "time": "Wed Jul 15 16:11:55 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0447\\u0441\\u043c\\u0438\\u0447\\u0441\\u0438\\u0447\\u0441\\u043c\\u0438", "enc": "utf-8"}',) called by create_server

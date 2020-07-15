@@ -1,11 +1,13 @@
 import sys
 import json
 from socket import SOCK_STREAM, socket
+from decorators import log
 
 import funx
 import server_logger
 
 
+@log
 def decoder(data):
     data = json.loads(data.decode('utf-8'))
     time = data.get('time')
@@ -15,6 +17,7 @@ def decoder(data):
     server_logger.LOG.info(f'{time}: from {from_user} to {to}')
 
 
+@log
 def create_server(addr):
     s = socket(type=SOCK_STREAM)
     s.bind(addr)
@@ -31,6 +34,7 @@ def create_server(addr):
         conn.close()
 
 
+@log
 def main(args):
     if len(args) > 1:
         create_server(funx.parse_args(args[1:]))
@@ -39,6 +43,5 @@ def main(args):
 
 
 if __name__ == '__main__':
-    server_logger.logging.basicConfig(filename='log/server.log')
     server_logger.LOG.info('server started')
     main(sys.argv)

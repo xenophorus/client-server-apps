@@ -3,6 +3,7 @@ import time
 import chardet
 import json
 from socket import SOCK_STREAM, socket
+from decorators import log
 
 import funx
 
@@ -33,6 +34,7 @@ def create_message():
     return message
 
 
+@log
 def create_client(addr):
     s = socket(type=SOCK_STREAM)
     try:
@@ -53,6 +55,7 @@ def create_client(addr):
             client_logger.LOG.critical('Something wrong. No answer from server.')
 
 
+@log
 def main(args):
     if len(args) > 1:
         funx.parse_args(args[1:])

@@ -1,0 +1,61 @@
+2020-07-15 15:54:34,709 INFO client client started
+2020-07-15 15:54:34,710 INFO client Connection established
+2020-07-15 15:56:00,431 INFO client client started
+2020-07-15 15:56:02,435 CRITICAL client Connection refused!
+2020-07-15 15:56:06,074 DEBUG client message complete, time:Wed Jul 15 15:56:02 2020, enc:utf-8
+2020-07-15 15:56:06,172 CRITICAL client Something wrong. No answer from server.
+2020-07-15 15:56:07,962 DEBUG client message complete, time:Wed Jul 15 15:56:06 2020, enc:utf-8
+2020-07-15 15:56:07,963 CRITICAL client Something wrong. No answer from server.
+2020-07-15 15:56:09,210 DEBUG client message complete, time:Wed Jul 15 15:56:07 2020, enc:utf-8
+2020-07-15 15:56:09,211 CRITICAL client Something wrong. No answer from server.
+2020-07-15 15:56:10,754 DEBUG client message complete, time:Wed Jul 15 15:56:09 2020, enc:utf-8
+2020-07-15 15:56:10,757 CRITICAL client Something wrong. No answer from server.
+2020-07-15 15:56:26,686 INFO client client started
+2020-07-15 15:56:26,687 INFO client Connection established
+2020-07-15 15:56:34,626 DEBUG client message complete, time:Wed Jul 15 15:56:26 2020, enc:utf-8
+2020-07-15 15:56:34,724 INFO client message sent
+2020-07-15 15:56:34,724 INFO client answer received from (0, b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'):
+	
+2020-07-15 15:56:38,811 DEBUG client message complete, time:Wed Jul 15 15:56:34 2020, enc:utf-8
+2020-07-15 15:56:38,812 INFO client message sent
+2020-07-15 15:56:38,812 CRITICAL client Something wrong. No answer from server.
+2020-07-15 16:03:47,995 INFO client client started
+2020-07-15 16:03:47,996 INFO client Connection established
+2020-07-15 16:03:55,920 DEBUG client message complete, time:Wed Jul 15 16:03:47 2020, enc:ascii
+2020-07-15 16:03:55,921 INFO client message sent
+2020-07-15 16:03:56,010 INFO client answer received from (0, b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'):
+	200
+2020-07-15 16:03:58,281 DEBUG client message complete, time:Wed Jul 15 16:03:56 2020, enc:ascii
+2020-07-15 16:03:58,281 INFO client message sent
+2020-07-15 16:03:58,282 INFO client answer received from (0, b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'):
+	200
+2020-07-15 16:03:59,633 DEBUG client message complete, time:Wed Jul 15 16:03:58 2020, enc:ascii
+2020-07-15 16:03:59,633 INFO client message sent
+2020-07-15 16:03:59,634 INFO client answer received from (0, b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'):
+	200
+2020-07-15 16:04:02,242 DEBUG client message complete, time:Wed Jul 15 16:03:59 2020, enc:ascii
+2020-07-15 16:04:02,242 INFO client message sent
+2020-07-15 16:04:02,243 INFO client answer received from (0, b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'):
+	200
+2020-07-15 16:04:09,266 DEBUG client message complete, time:Wed Jul 15 16:04:02 2020, enc:ascii
+2020-07-15 16:04:09,267 CRITICAL client Something wrong. No answer from server.
+2020-07-15 16:04:11,274 DEBUG client message complete, time:Wed Jul 15 16:04:09 2020, enc:ascii
+2020-07-15 16:04:11,274 CRITICAL client Something wrong. No answer from server.
+2020-07-15 16:04:22,323 DEBUG client message complete, time:Wed Jul 15 16:04:11 2020, enc:ascii
+2020-07-15 16:04:22,323 CRITICAL client Something wrong. No answer from server.
+2020-07-15 16:11:51,195 INFO client client started
+2020-07-15 16:11:51,196 INFO client Connection established
+2020-07-15 16:11:54,986 DEBUG client message complete, time:Wed Jul 15 16:11:51 2020, enc:utf-8
+2020-07-15 16:11:54,986 INFO client message sent
+2020-07-15 16:11:55,075 INFO client answer received from (0, b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'):
+	200
+2020-07-15 16:11:57,218 DEBUG client message complete, time:Wed Jul 15 16:11:55 2020, enc:utf-8
+2020-07-15 16:11:57,218 INFO client message sent
+2020-07-15 16:11:57,219 INFO client answer received from (0, b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'):
+	200
+2020-07-15 16:12:04,026 DEBUG client message complete, time:Wed Jul 15 16:11:57 2020, enc:utf-8
+2020-07-15 16:12:04,026 CRITICAL client Something wrong. No answer from server.
+2020-07-15 16:12:05,979 DEBUG client message complete, time:Wed Jul 15 16:12:04 2020, enc:utf-8
+2020-07-15 16:12:05,980 CRITICAL client Something wrong. No answer from server.
+2020-07-15 16:12:08,197 DEBUG client message complete, time:Wed Jul 15 16:12:05 2020, enc:utf-8
+2020-07-15 16:12:08,197 CRITICAL client Something wrong. No answer from server.
