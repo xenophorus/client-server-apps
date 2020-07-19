@@ -1,0 +1,889 @@
+2020-07-19 13:59:11,276 INFO logger logging started
+2020-07-19 13:59:11,276 INFO monitor client started
+2020-07-19 14:00:13,779 INFO logger logging started
+2020-07-19 14:00:13,779 INFO server server started
+2020-07-19 14:00:13,780 INFO server server started
+2020-07-19 14:00:23,010 INFO server Получен запрос на соединение с ('127.0.0.1', 54530)
+2020-07-19 14:00:27,117 INFO logger logging started
+2020-07-19 14:00:27,117 INFO monitor client started
+2020-07-19 14:00:27,119 INFO server Получен запрос на соединение с ('127.0.0.1', 54531)
+2020-07-19 14:00:31,070 INFO server Получен запрос на соединение с ('127.0.0.1', 54533)
+2020-07-19 14:00:34,102 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:00:31 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:00:34,102 DEBUG server message complete, time:Sun Jul 19 14:00:34 2020
+2020-07-19 14:00:34,102 DEBUG server message complete, time:Sun Jul 19 14:00:34 2020
+2020-07-19 14:00:34,102 DEBUG server message complete, time:Sun Jul 19 14:00:34 2020
+2020-07-19 14:00:34,102 DEBUG server message complete, time:Sun Jul 19 14:00:34 2020
+2020-07-19 14:00:34,105 INFO monitor b'{"action": "message", "time": "Sun Jul 19 14:00:31 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}' received
+2020-07-19 14:00:39,158 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:00:23 2020", "to": "Alex", "from_user": "Nick", "message": "sdfffffffffffffffffffffffffffffffffffff"}
+2020-07-19 14:00:39,158 DEBUG server message complete, time:Sun Jul 19 14:00:39 2020
+2020-07-19 14:00:39,158 DEBUG server message complete, time:Sun Jul 19 14:00:39 2020
+2020-07-19 14:00:39,158 DEBUG server message complete, time:Sun Jul 19 14:00:39 2020
+2020-07-19 14:00:39,159 DEBUG server message complete, time:Sun Jul 19 14:00:39 2020
+2020-07-19 14:00:39,160 INFO monitor b'{"action": "message", "time": "Sun Jul 19 14:00:23 2020", "to": "Alex", "from_user": "Nick", "message": "sdfffffffffffffffffffffffffffffffffffff"}' received
+2020-07-19 14:00:41,166 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:00:39 2020", "to": "Alex", "from_user": "Nick", "message": "sdfffffffffffffffffffffffffffffffffffff"}
+2020-07-19 14:00:41,167 DEBUG server message complete, time:Sun Jul 19 14:00:41 2020
+2020-07-19 14:00:41,167 DEBUG server message complete, time:Sun Jul 19 14:00:41 2020
+2020-07-19 14:00:41,168 DEBUG server message complete, time:Sun Jul 19 14:00:41 2020
+2020-07-19 14:00:41,168 DEBUG server message complete, time:Sun Jul 19 14:00:41 2020
+2020-07-19 14:00:41,168 ERROR server Клиент 760 ('127.0.0.1', 54530) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 14:00:41,170 INFO monitor b'{"action": "message", "time": "Sun Jul 19 14:00:39 2020", "to": "Alex", "from_user": "Nick", "message": "sdfffffffffffffffffffffffffffffffffffff"}' received
+2020-07-19 14:01:17,392 INFO server Получен запрос на соединение с ('127.0.0.1', 54537)
+2020-07-19 14:01:19,410 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:01:17 2020", "to": "Alex", "from_user": "Nick", "message": "sdffffffffffffffffsdffffffffffffffff"}
+2020-07-19 14:01:19,411 DEBUG server message complete, time:Sun Jul 19 14:01:19 2020
+2020-07-19 14:01:19,411 DEBUG server message complete, time:Sun Jul 19 14:01:19 2020
+2020-07-19 14:01:19,411 DEBUG server message complete, time:Sun Jul 19 14:01:19 2020
+2020-07-19 14:01:19,412 DEBUG server message complete, time:Sun Jul 19 14:01:19 2020
+2020-07-19 14:01:19,413 INFO monitor b'{"action": "message", "time": "Sun Jul 19 14:01:17 2020", "to": "Alex", "from_user": "Nick", "message": "sdffffffffffffffffsdffffffffffffffff"}' received
+2020-07-19 14:01:22,431 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:01:19 2020", "to": "Alex", "from_user": "Nick", "message": "sdffffffffffffffffsdffffffffffffffff"}
+2020-07-19 14:01:22,431 DEBUG server message complete, time:Sun Jul 19 14:01:22 2020
+2020-07-19 14:01:22,431 DEBUG server message complete, time:Sun Jul 19 14:01:22 2020
+2020-07-19 14:01:22,431 DEBUG server message complete, time:Sun Jul 19 14:01:22 2020
+2020-07-19 14:01:22,432 DEBUG server message complete, time:Sun Jul 19 14:01:22 2020
+2020-07-19 14:01:22,432 INFO monitor b'{"action": "message", "time": "Sun Jul 19 14:01:19 2020", "to": "Alex", "from_user": "Nick", "message": "sdffffffffffffffffsdffffffffffffffff"}' received
+2020-07-19 14:01:24,448 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:01:21 2020", "to": "Alex", "from_user": "Nick", "message": "sdffffffffffffffffsdffffffffffffffff"}
+2020-07-19 14:01:24,449 DEBUG server message complete, time:Sun Jul 19 14:01:24 2020
+2020-07-19 14:01:24,450 DEBUG server message complete, time:Sun Jul 19 14:01:24 2020
+2020-07-19 14:01:24,450 DEBUG server message complete, time:Sun Jul 19 14:01:24 2020
+2020-07-19 14:01:24,450 DEBUG server message complete, time:Sun Jul 19 14:01:24 2020
+2020-07-19 14:01:24,451 ERROR server Клиент 696 ('127.0.0.1', 54537) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 14:01:24,456 INFO monitor b'{"action": "message", "time": "Sun Jul 19 14:01:21 2020", "to": "Alex", "from_user": "Nick", "message": "sdffffffffffffffffsdffffffffffffffff"}' received
+2020-07-19 14:06:15,833 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-19 14:06:24,691 INFO logger logging started
+2020-07-19 14:06:24,692 INFO server server started
+2020-07-19 14:06:24,692 INFO server server started
+2020-07-19 14:06:31,166 INFO server Получен запрос на соединение с ('127.0.0.1', 54576)
+2020-07-19 14:06:39,591 INFO server Получен запрос на соединение с ('127.0.0.1', 54577)
+2020-07-19 14:06:42,604 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:06:39 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:06:42,605 DEBUG server message complete, time:Sun Jul 19 14:06:42 2020
+2020-07-19 14:06:42,606 DEBUG server message complete, time:Sun Jul 19 14:06:42 2020
+2020-07-19 14:06:42,606 DEBUG server message complete, time:Sun Jul 19 14:06:42 2020
+2020-07-19 14:06:45,632 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:06:42 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:06:45,633 DEBUG server message complete, time:Sun Jul 19 14:06:45 2020
+2020-07-19 14:06:45,633 DEBUG server message complete, time:Sun Jul 19 14:06:45 2020
+2020-07-19 14:06:45,633 DEBUG server message complete, time:Sun Jul 19 14:06:45 2020
+2020-07-19 14:06:49,664 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:06:45 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:06:49,665 DEBUG server message complete, time:Sun Jul 19 14:06:49 2020
+2020-07-19 14:06:49,665 DEBUG server message complete, time:Sun Jul 19 14:06:49 2020
+2020-07-19 14:06:49,665 DEBUG server message complete, time:Sun Jul 19 14:06:49 2020
+2020-07-19 14:06:49,666 ERROR server Клиент 696 ('127.0.0.1', 54577) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 14:10:47,052 INFO logger logging started
+2020-07-19 14:10:47,053 INFO server server started
+2020-07-19 14:10:47,053 INFO server server started
+2020-07-19 14:11:00,663 INFO server Получен запрос на соединение с ('127.0.0.1', 54602)
+2020-07-19 14:11:03,676 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:11:00 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:11:03,677 DEBUG server message complete, time:Sun Jul 19 14:11:03 2020
+2020-07-19 14:11:03,678 DEBUG server message complete, time:Sun Jul 19 14:11:03 2020
+2020-07-19 14:11:06,701 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:11:03 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:11:06,702 DEBUG server message complete, time:Sun Jul 19 14:11:06 2020
+2020-07-19 14:11:06,702 DEBUG server message complete, time:Sun Jul 19 14:11:06 2020
+2020-07-19 14:11:09,730 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:11:06 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:11:09,731 DEBUG server message complete, time:Sun Jul 19 14:11:09 2020
+2020-07-19 14:11:09,731 DEBUG server message complete, time:Sun Jul 19 14:11:09 2020
+2020-07-19 14:11:09,731 ERROR server Клиент 628 ('127.0.0.1', 54602) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 14:30:39,920 INFO logger logging started
+2020-07-19 14:30:39,922 INFO server server started
+2020-07-19 14:30:39,922 INFO server server started
+2020-07-19 14:30:47,792 INFO server Получен запрос на соединение с ('127.0.0.1', 54758)
+2020-07-19 14:30:50,909 INFO server Получен запрос на соединение с ('127.0.0.1', 54760)
+2020-07-19 14:30:53,291 INFO logger logging started
+2020-07-19 14:30:53,291 INFO monitor client started
+2020-07-19 14:30:53,292 INFO server Получен запрос на соединение с ('127.0.0.1', 54761)
+2020-07-19 14:30:58,343 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:30:50 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:30:58,344 DEBUG server message complete, time:Sun Jul 19 14:30:58 2020
+2020-07-19 14:30:58,344 DEBUG server message complete, time:Sun Jul 19 14:30:58 2020
+2020-07-19 14:30:58,344 DEBUG server message complete, time:Sun Jul 19 14:30:58 2020
+2020-07-19 14:30:58,345 DEBUG server message complete, time:Sun Jul 19 14:30:58 2020
+2020-07-19 14:30:59,353 ERROR server Клиент 312 ('127.0.0.1', 54760) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-19 14:30:59,354 DEBUG server data = 
+2020-07-19 14:30:59,354 DEBUG server message complete, time:Sun Jul 19 14:30:59 2020
+2020-07-19 14:30:59,354 DEBUG server message complete, time:Sun Jul 19 14:30:59 2020
+2020-07-19 14:30:59,354 ERROR server Клиент 376 ('127.0.0.1', 54761) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-19 14:50:00,235 INFO logger logging started
+2020-07-19 14:50:00,237 INFO server server started
+2020-07-19 14:50:00,237 INFO server server started
+2020-07-19 14:50:06,030 INFO server Получен запрос на соединение с ('127.0.0.1', 54829)
+2020-07-19 14:50:09,051 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:50:08 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:50:09,051 DEBUG funx message complete, time:Sun Jul 19 14:50:09 2020
+2020-07-19 14:50:09,051 ERROR server Клиент 764 ('127.0.0.1', 54829) отключился
+		name 'create_response' is not defined
+2020-07-19 14:50:40,817 INFO logger logging started
+2020-07-19 14:50:40,819 INFO server server started
+2020-07-19 14:50:40,819 INFO server server started
+2020-07-19 14:50:47,325 INFO server Получен запрос на соединение с ('127.0.0.1', 54832)
+2020-07-19 14:50:53,370 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:50:53 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:50:53,370 DEBUG funx message complete, time:Sun Jul 19 14:50:53 2020
+2020-07-19 14:50:53,371 ERROR server Клиент 644 ('127.0.0.1', 54832) отключился
+		name 'create_response' is not defined
+2020-07-19 14:53:17,245 INFO logger logging started
+2020-07-19 14:53:17,248 INFO server server started
+2020-07-19 14:53:17,248 INFO server server started
+2020-07-19 14:53:20,160 INFO server Получен запрос на соединение с ('127.0.0.1', 54838)
+2020-07-19 14:53:25,200 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:53:24 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+2020-07-19 14:53:25,200 DEBUG funx message complete, time:Sun Jul 19 14:53:25 2020
+2020-07-19 14:53:25,200 ERROR server Клиент 688 ('127.0.0.1', 54838) отключился
+		name 'create_response' is not defined
+2020-07-19 14:55:27,174 INFO logger logging started
+2020-07-19 14:55:27,175 INFO server server started
+2020-07-19 14:55:27,175 INFO server server started
+2020-07-19 14:55:32,243 INFO server Получен запрос на соединение с ('127.0.0.1', 54847)
+2020-07-19 14:55:37,296 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:55:36 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 14:55:37,297 DEBUG funx message complete, time:Sun Jul 19 14:55:37 2020
+2020-07-19 14:55:37,297 DEBUG funx message complete, time:Sun Jul 19 14:55:37 2020
+2020-07-19 14:55:41,335 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:55:40 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 14:55:41,335 DEBUG funx message complete, time:Sun Jul 19 14:55:41 2020
+2020-07-19 14:55:41,336 DEBUG funx message complete, time:Sun Jul 19 14:55:41 2020
+2020-07-19 14:55:43,356 DEBUG server data = {"action": "message", "time": "Sun Jul 19 14:55:43 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 14:55:43,356 DEBUG funx message complete, time:Sun Jul 19 14:55:43 2020
+2020-07-19 14:55:43,357 DEBUG funx message complete, time:Sun Jul 19 14:55:43 2020
+2020-07-19 14:55:43,357 ERROR server Клиент 392 ('127.0.0.1', 54847) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 15:11:19,840 INFO logger logging started
+2020-07-19 15:11:19,842 INFO server server started
+2020-07-19 15:11:19,843 INFO server server started
+2020-07-19 15:11:22,210 INFO server Получен запрос на соединение с ('127.0.0.1', 54914)
+2020-07-19 15:11:26,258 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:11:26 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+2020-07-19 15:11:26,258 DEBUG funx message complete, time:Sun Jul 19 15:11:26 2020
+2020-07-19 15:11:26,258 DEBUG funx message complete, time:Sun Jul 19 15:11:26 2020
+2020-07-19 15:11:30,312 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:11:30 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+2020-07-19 15:11:30,312 DEBUG funx message complete, time:Sun Jul 19 15:11:30 2020
+2020-07-19 15:11:30,312 DEBUG funx message complete, time:Sun Jul 19 15:11:30 2020
+2020-07-19 15:11:33,350 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:11:32 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaa"}
+2020-07-19 15:11:33,350 DEBUG funx message complete, time:Sun Jul 19 15:11:33 2020
+2020-07-19 15:11:33,350 DEBUG funx message complete, time:Sun Jul 19 15:11:33 2020
+2020-07-19 15:11:33,351 ERROR server Клиент 368 ('127.0.0.1', 54914) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 15:19:18,889 INFO logger logging started
+2020-07-19 15:19:18,891 INFO server server started
+2020-07-19 15:19:18,891 INFO server server started
+2020-07-19 15:19:25,875 INFO server Получен запрос на соединение с ('127.0.0.1', 55029)
+2020-07-19 15:19:31,942 DEBUG server data = 
+2020-07-19 15:19:31,942 DEBUG funx message complete, time:Sun Jul 19 15:19:31 2020
+2020-07-19 15:19:31,942 DEBUG funx message complete, time:Sun Jul 19 15:19:31 2020
+2020-07-19 15:19:31,942 ERROR server Клиент 368 ('127.0.0.1', 55029) отключился
+		a bytes-like object is required, not 'list'
+2020-07-19 15:35:58,436 INFO logger logging started
+2020-07-19 15:35:58,438 INFO server server started
+2020-07-19 15:35:58,438 INFO server server started
+2020-07-19 15:36:01,770 INFO server Получен запрос на соединение с ('127.0.0.1', 55113)
+2020-07-19 15:36:05,816 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:05 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+2020-07-19 15:36:05,817 DEBUG funx message complete, time:Sun Jul 19 15:36:05 2020
+2020-07-19 15:36:07,834 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:07 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+2020-07-19 15:36:07,834 DEBUG funx message complete, time:Sun Jul 19 15:36:07 2020
+2020-07-19 15:36:10,865 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:10 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaa"}
+2020-07-19 15:36:10,865 DEBUG funx message complete, time:Sun Jul 19 15:36:10 2020
+2020-07-19 15:36:12,879 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:12 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+2020-07-19 15:36:12,879 DEBUG funx message complete, time:Sun Jul 19 15:36:12 2020
+2020-07-19 15:36:14,901 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:14 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaa"}
+2020-07-19 15:36:14,901 DEBUG funx message complete, time:Sun Jul 19 15:36:14 2020
+2020-07-19 15:36:22,883 INFO server Получен запрос на соединение с ('127.0.0.1', 55115)
+2020-07-19 15:36:27,067 INFO logger logging started
+2020-07-19 15:36:27,068 INFO monitor client started
+2020-07-19 15:36:27,069 INFO server Получен запрос на соединение с ('127.0.0.1', 55116)
+2020-07-19 15:36:30,582 INFO server Получен запрос на соединение с ('127.0.0.1', 55117)
+2020-07-19 15:36:33,601 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:33 2020", "to": "Alex", "from_user": "Nick", "message": "fffffffffffffffffffffffff"}
+2020-07-19 15:36:33,601 DEBUG funx message complete, time:Sun Jul 19 15:36:33 2020
+2020-07-19 15:36:33,601 DEBUG funx message complete, time:Sun Jul 19 15:36:33 2020
+2020-07-19 15:36:33,601 DEBUG funx message complete, time:Sun Jul 19 15:36:33 2020
+2020-07-19 15:36:33,601 DEBUG funx message complete, time:Sun Jul 19 15:36:33 2020
+2020-07-19 15:36:33,602 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:33 2020 
+	fffffffffffffffffffffffff
+2020-07-19 15:36:33,602 INFO monitor b'{"action": "message", "time": "Sun Jul 19 15:36:33 2020", "to": "Alex", "from_user": "Nick", "message": "fffffffffffffffffffffffff"}' received
+2020-07-19 15:36:35,609 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:34 2020", "to": "Alex", "from_user": "Nick", "message": "fffff"}
+2020-07-19 15:36:35,610 DEBUG funx message complete, time:Sun Jul 19 15:36:35 2020
+2020-07-19 15:36:35,610 DEBUG funx message complete, time:Sun Jul 19 15:36:35 2020
+2020-07-19 15:36:35,610 DEBUG funx message complete, time:Sun Jul 19 15:36:35 2020
+2020-07-19 15:36:35,611 DEBUG funx message complete, time:Sun Jul 19 15:36:35 2020
+2020-07-19 15:36:35,611 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:34 2020 
+	fffff
+2020-07-19 15:36:35,612 INFO monitor b'{"action": "message", "time": "Sun Jul 19 15:36:34 2020", "to": "Alex", "from_user": "Nick", "message": "fffff"}' received
+2020-07-19 15:36:36,615 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:36 2020", "to": "Alex", "from_user": "Nick", "message": "fffffffffffffffffffffffff"}
+2020-07-19 15:36:36,615 DEBUG funx message complete, time:Sun Jul 19 15:36:36 2020
+2020-07-19 15:36:36,616 DEBUG funx message complete, time:Sun Jul 19 15:36:36 2020
+2020-07-19 15:36:36,616 DEBUG funx message complete, time:Sun Jul 19 15:36:36 2020
+2020-07-19 15:36:36,616 DEBUG funx message complete, time:Sun Jul 19 15:36:36 2020
+2020-07-19 15:36:36,616 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:36 2020 
+	fffffffffffffffffffffffff
+2020-07-19 15:36:36,617 INFO monitor b'{"action": "message", "time": "Sun Jul 19 15:36:36 2020", "to": "Alex", "from_user": "Nick", "message": "fffffffffffffffffffffffff"}' received
+2020-07-19 15:36:39,637 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:36:39 2020", "to": "Alex", "from_user": "Nick", "message": "sssssssssss"}
+2020-07-19 15:36:39,637 DEBUG funx message complete, time:Sun Jul 19 15:36:39 2020
+2020-07-19 15:36:39,637 DEBUG funx message complete, time:Sun Jul 19 15:36:39 2020
+2020-07-19 15:36:39,638 DEBUG funx message complete, time:Sun Jul 19 15:36:39 2020
+2020-07-19 15:36:39,638 DEBUG funx message complete, time:Sun Jul 19 15:36:39 2020
+2020-07-19 15:36:39,643 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:39 2020 
+	sssssssssss
+2020-07-19 15:36:39,643 INFO monitor b'{"action": "message", "time": "Sun Jul 19 15:36:39 2020", "to": "Alex", "from_user": "Nick", "message": "sssssssssss"}' received
+2020-07-19 15:36:40,642 ERROR server Клиент 660 ('127.0.0.1', 55115) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 15:36:59,931 INFO server Получен запрос на соединение с ('127.0.0.1', 55119)
+2020-07-19 15:37:02,956 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:37:02 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddddd"}
+2020-07-19 15:37:02,956 DEBUG funx message complete, time:Sun Jul 19 15:37:02 2020
+2020-07-19 15:37:02,957 DEBUG funx message complete, time:Sun Jul 19 15:37:02 2020
+2020-07-19 15:37:02,957 DEBUG funx message complete, time:Sun Jul 19 15:37:02 2020
+2020-07-19 15:37:02,957 DEBUG funx message complete, time:Sun Jul 19 15:37:02 2020
+2020-07-19 15:37:02,958 INFO funx Message from Nick to Alex received at Sun Jul 19 15:37:02 2020 
+	ddddddddddddd
+2020-07-19 15:37:02,958 INFO monitor b'{"action": "message", "time": "Sun Jul 19 15:37:02 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddddd"}' received
+2020-07-19 15:37:05,999 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:37:05 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddddddddddddddddddddddddddddd"}
+2020-07-19 15:37:05,999 DEBUG funx message complete, time:Sun Jul 19 15:37:05 2020
+2020-07-19 15:37:06,000 DEBUG funx message complete, time:Sun Jul 19 15:37:06 2020
+2020-07-19 15:37:06,000 DEBUG funx message complete, time:Sun Jul 19 15:37:06 2020
+2020-07-19 15:37:06,000 DEBUG funx message complete, time:Sun Jul 19 15:37:06 2020
+2020-07-19 15:37:06,005 INFO funx Message from Nick to Alex received at Sun Jul 19 15:37:05 2020 
+	dddddddddddddddddddddddddddddddddddddddd
+2020-07-19 15:37:06,005 INFO monitor b'{"action": "message", "time": "Sun Jul 19 15:37:05 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddddddddddddddddddddddddddddd"}' received
+2020-07-19 15:37:10,040 DEBUG server data = {"action": "message", "time": "Sun Jul 19 15:37:09 2020", "to": "Alex", "from_user": "Nick", "message": "fffffffffffff"}
+2020-07-19 15:37:10,040 DEBUG funx message complete, time:Sun Jul 19 15:37:10 2020
+2020-07-19 15:37:10,041 DEBUG funx message complete, time:Sun Jul 19 15:37:10 2020
+2020-07-19 15:37:10,041 DEBUG funx message complete, time:Sun Jul 19 15:37:10 2020
+2020-07-19 15:37:10,042 DEBUG funx message complete, time:Sun Jul 19 15:37:10 2020
+2020-07-19 15:37:10,042 INFO funx Message from Nick to Alex received at Sun Jul 19 15:37:09 2020 
+	fffffffffffff
+2020-07-19 15:37:10,043 INFO monitor b'{"action": "message", "time": "Sun Jul 19 15:37:09 2020", "to": "Alex", "from_user": "Nick", "message": "fffffffffffff"}' received
+2020-07-19 15:37:11,047 ERROR server Клиент 732 ('127.0.0.1', 55117) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 15:56:38,013 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-19 15:56:39,131 INFO logger logging started
+2020-07-19 15:56:39,134 INFO server server started
+2020-07-19 15:56:39,134 INFO server server started
+2020-07-19 15:57:09,843 INFO logger logging started
+2020-07-19 15:57:09,843 INFO server server started
+2020-07-19 15:57:09,844 INFO server server started
+2020-07-19 16:08:39,107 INFO logger logging started
+2020-07-19 16:08:39,139 INFO server server started
+2020-07-19 16:08:39,139 INFO server server started
+2020-07-19 16:08:42,630 INFO server Получен запрос на соединение с ('127.0.0.1', 55221)
+2020-07-19 16:08:45,664 DEBUG server data = 
+2020-07-19 16:08:45,664 DEBUG funx message complete, time:Sun Jul 19 16:08:45 2020
+2020-07-19 16:08:46,677 DEBUG server data = 
+2020-07-19 16:08:46,677 DEBUG funx message complete, time:Sun Jul 19 16:08:46 2020
+2020-07-19 16:08:47,690 DEBUG server data = 
+2020-07-19 16:08:47,691 DEBUG funx message complete, time:Sun Jul 19 16:08:47 2020
+2020-07-19 16:08:48,693 DEBUG server data = 
+2020-07-19 16:08:48,693 DEBUG funx message complete, time:Sun Jul 19 16:08:48 2020
+2020-07-19 16:08:49,695 DEBUG server data = 
+2020-07-19 16:08:49,695 DEBUG funx message complete, time:Sun Jul 19 16:08:49 2020
+2020-07-19 16:08:50,700 DEBUG server data = 
+2020-07-19 16:08:50,700 DEBUG funx message complete, time:Sun Jul 19 16:08:50 2020
+2020-07-19 16:08:51,714 DEBUG server data = 
+2020-07-19 16:08:51,714 DEBUG funx message complete, time:Sun Jul 19 16:08:51 2020
+2020-07-19 16:08:52,715 DEBUG server data = 
+2020-07-19 16:08:52,715 DEBUG funx message complete, time:Sun Jul 19 16:08:52 2020
+2020-07-19 16:08:53,730 DEBUG server data = 
+2020-07-19 16:08:53,730 DEBUG funx message complete, time:Sun Jul 19 16:08:53 2020
+2020-07-19 16:08:54,742 DEBUG server data = 
+2020-07-19 16:08:54,742 DEBUG funx message complete, time:Sun Jul 19 16:08:54 2020
+2020-07-19 16:08:55,743 DEBUG server data = 
+2020-07-19 16:08:55,743 DEBUG funx message complete, time:Sun Jul 19 16:08:55 2020
+2020-07-19 16:08:56,755 DEBUG server data = 
+2020-07-19 16:08:56,756 DEBUG funx message complete, time:Sun Jul 19 16:08:56 2020
+2020-07-19 16:08:57,769 DEBUG server data = 
+2020-07-19 16:08:57,769 DEBUG funx message complete, time:Sun Jul 19 16:08:57 2020
+2020-07-19 16:08:58,777 DEBUG server data = 
+2020-07-19 16:08:58,777 DEBUG funx message complete, time:Sun Jul 19 16:08:58 2020
+2020-07-19 16:08:59,778 DEBUG server data = 
+2020-07-19 16:08:59,778 DEBUG funx message complete, time:Sun Jul 19 16:08:59 2020
+2020-07-19 16:09:00,785 DEBUG server data = 
+2020-07-19 16:09:00,785 DEBUG funx message complete, time:Sun Jul 19 16:09:00 2020
+2020-07-19 16:09:01,796 DEBUG server data = 
+2020-07-19 16:09:01,796 DEBUG funx message complete, time:Sun Jul 19 16:09:01 2020
+2020-07-19 16:09:02,804 DEBUG server data = 
+2020-07-19 16:09:02,804 DEBUG funx message complete, time:Sun Jul 19 16:09:02 2020
+2020-07-19 16:09:03,818 DEBUG server data = 
+2020-07-19 16:09:03,818 DEBUG funx message complete, time:Sun Jul 19 16:09:03 2020
+2020-07-19 16:09:04,826 DEBUG server data = 
+2020-07-19 16:09:04,826 DEBUG funx message complete, time:Sun Jul 19 16:09:04 2020
+2020-07-19 16:09:05,829 DEBUG server data = 
+2020-07-19 16:09:05,829 DEBUG funx message complete, time:Sun Jul 19 16:09:05 2020
+2020-07-19 16:09:06,841 DEBUG server data = 
+2020-07-19 16:09:06,841 DEBUG funx message complete, time:Sun Jul 19 16:09:06 2020
+2020-07-19 16:09:07,855 DEBUG server data = 
+2020-07-19 16:09:07,855 DEBUG funx message complete, time:Sun Jul 19 16:09:07 2020
+2020-07-19 16:09:08,870 DEBUG server data = 
+2020-07-19 16:09:08,871 DEBUG funx message complete, time:Sun Jul 19 16:09:08 2020
+2020-07-19 16:09:09,881 DEBUG server data = 
+2020-07-19 16:09:09,881 DEBUG funx message complete, time:Sun Jul 19 16:09:09 2020
+2020-07-19 16:09:10,883 DEBUG server data = 
+2020-07-19 16:09:10,883 DEBUG funx message complete, time:Sun Jul 19 16:09:10 2020
+2020-07-19 16:09:11,889 DEBUG server data = 
+2020-07-19 16:09:11,889 DEBUG funx message complete, time:Sun Jul 19 16:09:11 2020
+2020-07-19 16:09:12,906 DEBUG server data = 
+2020-07-19 16:09:12,906 DEBUG funx message complete, time:Sun Jul 19 16:09:12 2020
+2020-07-19 16:09:13,921 DEBUG server data = 
+2020-07-19 16:09:13,921 DEBUG funx message complete, time:Sun Jul 19 16:09:13 2020
+2020-07-19 16:09:14,936 DEBUG server data = 
+2020-07-19 16:09:14,936 DEBUG funx message complete, time:Sun Jul 19 16:09:14 2020
+2020-07-19 16:09:15,951 DEBUG server data = 
+2020-07-19 16:09:15,951 DEBUG funx message complete, time:Sun Jul 19 16:09:15 2020
+2020-07-19 16:09:16,955 DEBUG server data = 
+2020-07-19 16:09:16,955 DEBUG funx message complete, time:Sun Jul 19 16:09:16 2020
+2020-07-19 16:09:17,956 DEBUG server data = 
+2020-07-19 16:09:17,956 DEBUG funx message complete, time:Sun Jul 19 16:09:17 2020
+2020-07-19 16:09:18,956 DEBUG server data = 
+2020-07-19 16:09:18,957 DEBUG funx message complete, time:Sun Jul 19 16:09:18 2020
+2020-07-19 16:09:19,963 DEBUG server data = 
+2020-07-19 16:09:19,964 DEBUG funx message complete, time:Sun Jul 19 16:09:19 2020
+2020-07-19 16:09:20,972 DEBUG server data = 
+2020-07-19 16:09:20,972 DEBUG funx message complete, time:Sun Jul 19 16:09:20 2020
+2020-07-19 16:09:21,987 DEBUG server data = 
+2020-07-19 16:09:21,987 DEBUG funx message complete, time:Sun Jul 19 16:09:21 2020
+2020-07-19 16:09:22,990 DEBUG server data = 
+2020-07-19 16:09:22,991 DEBUG funx message complete, time:Sun Jul 19 16:09:22 2020
+2020-07-19 16:09:24,004 DEBUG server data = 
+2020-07-19 16:09:24,004 DEBUG funx message complete, time:Sun Jul 19 16:09:24 2020
+2020-07-19 16:09:25,020 DEBUG server data = 
+2020-07-19 16:09:25,020 DEBUG funx message complete, time:Sun Jul 19 16:09:25 2020
+2020-07-19 16:09:26,030 DEBUG server data = 
+2020-07-19 16:09:26,030 DEBUG funx message complete, time:Sun Jul 19 16:09:26 2020
+2020-07-19 16:09:27,041 DEBUG server data = 
+2020-07-19 16:09:27,041 DEBUG funx message complete, time:Sun Jul 19 16:09:27 2020
+2020-07-19 16:09:28,048 DEBUG server data = 
+2020-07-19 16:09:28,048 DEBUG funx message complete, time:Sun Jul 19 16:09:28 2020
+2020-07-19 16:09:29,062 DEBUG server data = 
+2020-07-19 16:09:29,062 DEBUG funx message complete, time:Sun Jul 19 16:09:29 2020
+2020-07-19 16:09:30,072 DEBUG server data = 
+2020-07-19 16:09:30,072 DEBUG funx message complete, time:Sun Jul 19 16:09:30 2020
+2020-07-19 16:09:31,080 DEBUG server data = 
+2020-07-19 16:09:31,080 DEBUG funx message complete, time:Sun Jul 19 16:09:31 2020
+2020-07-19 16:09:32,087 DEBUG server data = 
+2020-07-19 16:09:32,087 DEBUG funx message complete, time:Sun Jul 19 16:09:32 2020
+2020-07-19 16:09:33,097 DEBUG server data = 
+2020-07-19 16:09:33,097 DEBUG funx message complete, time:Sun Jul 19 16:09:33 2020
+2020-07-19 16:09:34,102 DEBUG server data = 
+2020-07-19 16:09:34,102 DEBUG funx message complete, time:Sun Jul 19 16:09:34 2020
+2020-07-19 16:09:35,115 DEBUG server data = 
+2020-07-19 16:09:35,115 DEBUG funx message complete, time:Sun Jul 19 16:09:35 2020
+2020-07-19 16:09:36,123 DEBUG server data = 
+2020-07-19 16:09:36,123 DEBUG funx message complete, time:Sun Jul 19 16:09:36 2020
+2020-07-19 16:09:37,131 DEBUG server data = 
+2020-07-19 16:09:37,131 DEBUG funx message complete, time:Sun Jul 19 16:09:37 2020
+2020-07-19 16:09:38,141 DEBUG server data = 
+2020-07-19 16:09:38,141 DEBUG funx message complete, time:Sun Jul 19 16:09:38 2020
+2020-07-19 16:09:39,142 DEBUG server data = 
+2020-07-19 16:09:39,142 DEBUG funx message complete, time:Sun Jul 19 16:09:39 2020
+2020-07-19 16:09:40,153 DEBUG server data = 
+2020-07-19 16:09:40,154 DEBUG funx message complete, time:Sun Jul 19 16:09:40 2020
+2020-07-19 16:09:41,163 DEBUG server data = 
+2020-07-19 16:09:41,163 DEBUG funx message complete, time:Sun Jul 19 16:09:41 2020
+2020-07-19 16:09:42,177 DEBUG server data = 
+2020-07-19 16:09:42,177 DEBUG funx message complete, time:Sun Jul 19 16:09:42 2020
+2020-07-19 16:09:43,186 DEBUG server data = 
+2020-07-19 16:09:43,186 DEBUG funx message complete, time:Sun Jul 19 16:09:43 2020
+2020-07-19 16:09:44,198 DEBUG server data = 
+2020-07-19 16:09:44,198 DEBUG funx message complete, time:Sun Jul 19 16:09:44 2020
+2020-07-19 16:09:45,199 DEBUG server data = 
+2020-07-19 16:09:45,200 DEBUG funx message complete, time:Sun Jul 19 16:09:45 2020
+2020-07-19 16:09:46,215 DEBUG server data = 
+2020-07-19 16:09:46,216 DEBUG funx message complete, time:Sun Jul 19 16:09:46 2020
+2020-07-19 16:09:47,227 DEBUG server data = 
+2020-07-19 16:09:47,227 DEBUG funx message complete, time:Sun Jul 19 16:09:47 2020
+2020-07-19 16:09:48,238 DEBUG server data = 
+2020-07-19 16:09:48,239 DEBUG funx message complete, time:Sun Jul 19 16:09:48 2020
+2020-07-19 16:09:49,250 DEBUG server data = 
+2020-07-19 16:09:49,250 DEBUG funx message complete, time:Sun Jul 19 16:09:49 2020
+2020-07-19 16:09:50,265 DEBUG server data = 
+2020-07-19 16:09:50,265 DEBUG funx message complete, time:Sun Jul 19 16:09:50 2020
+2020-07-19 16:09:51,271 DEBUG server data = 
+2020-07-19 16:09:51,271 DEBUG funx message complete, time:Sun Jul 19 16:09:51 2020
+2020-07-19 16:09:52,277 DEBUG server data = 
+2020-07-19 16:09:52,277 DEBUG funx message complete, time:Sun Jul 19 16:09:52 2020
+2020-07-19 16:09:53,288 DEBUG server data = 
+2020-07-19 16:09:53,288 DEBUG funx message complete, time:Sun Jul 19 16:09:53 2020
+2020-07-19 16:09:54,303 DEBUG server data = 
+2020-07-19 16:09:54,303 DEBUG funx message complete, time:Sun Jul 19 16:09:54 2020
+2020-07-19 16:09:55,312 DEBUG server data = 
+2020-07-19 16:09:55,312 DEBUG funx message complete, time:Sun Jul 19 16:09:55 2020
+2020-07-19 16:09:56,314 DEBUG server data = 
+2020-07-19 16:09:56,315 DEBUG funx message complete, time:Sun Jul 19 16:09:56 2020
+2020-07-19 16:09:57,325 DEBUG server data = 
+2020-07-19 16:09:57,325 DEBUG funx message complete, time:Sun Jul 19 16:09:57 2020
+2020-07-19 16:09:58,331 DEBUG server data = 
+2020-07-19 16:09:58,331 DEBUG funx message complete, time:Sun Jul 19 16:09:58 2020
+2020-07-19 16:09:59,340 DEBUG server data = 
+2020-07-19 16:09:59,340 DEBUG funx message complete, time:Sun Jul 19 16:09:59 2020
+2020-07-19 16:10:00,351 DEBUG server data = 
+2020-07-19 16:10:00,351 DEBUG funx message complete, time:Sun Jul 19 16:10:00 2020
+2020-07-19 16:10:01,355 DEBUG server data = 
+2020-07-19 16:10:01,355 DEBUG funx message complete, time:Sun Jul 19 16:10:01 2020
+2020-07-19 16:10:02,368 DEBUG server data = 
+2020-07-19 16:10:02,368 DEBUG funx message complete, time:Sun Jul 19 16:10:02 2020
+2020-07-19 16:10:03,382 DEBUG server data = 
+2020-07-19 16:10:03,383 DEBUG funx message complete, time:Sun Jul 19 16:10:03 2020
+2020-07-19 16:10:04,394 DEBUG server data = 
+2020-07-19 16:10:04,394 DEBUG funx message complete, time:Sun Jul 19 16:10:04 2020
+2020-07-19 16:10:05,402 DEBUG server data = 
+2020-07-19 16:10:05,402 DEBUG funx message complete, time:Sun Jul 19 16:10:05 2020
+2020-07-19 16:10:06,415 DEBUG server data = 
+2020-07-19 16:10:06,416 DEBUG funx message complete, time:Sun Jul 19 16:10:06 2020
+2020-07-19 16:10:07,423 DEBUG server data = 
+2020-07-19 16:10:07,423 DEBUG funx message complete, time:Sun Jul 19 16:10:07 2020
+2020-07-19 16:10:08,431 DEBUG server data = 
+2020-07-19 16:10:08,431 DEBUG funx message complete, time:Sun Jul 19 16:10:08 2020
+2020-07-19 16:10:09,444 DEBUG server data = 
+2020-07-19 16:10:09,444 DEBUG funx message complete, time:Sun Jul 19 16:10:09 2020
+2020-07-19 16:10:10,450 DEBUG server data = 
+2020-07-19 16:10:10,451 DEBUG funx message complete, time:Sun Jul 19 16:10:10 2020
+2020-07-19 16:10:11,459 DEBUG server data = 
+2020-07-19 16:10:11,460 DEBUG funx message complete, time:Sun Jul 19 16:10:11 2020
+2020-07-19 16:10:12,471 DEBUG server data = 
+2020-07-19 16:10:12,471 DEBUG funx message complete, time:Sun Jul 19 16:10:12 2020
+2020-07-19 16:10:13,483 DEBUG server data = 
+2020-07-19 16:10:13,483 DEBUG funx message complete, time:Sun Jul 19 16:10:13 2020
+2020-07-19 16:10:14,493 DEBUG server data = 
+2020-07-19 16:10:14,494 DEBUG funx message complete, time:Sun Jul 19 16:10:14 2020
+2020-07-19 16:10:15,505 DEBUG server data = 
+2020-07-19 16:10:15,505 DEBUG funx message complete, time:Sun Jul 19 16:10:15 2020
+2020-07-19 16:10:16,519 DEBUG server data = 
+2020-07-19 16:10:16,519 DEBUG funx message complete, time:Sun Jul 19 16:10:16 2020
+2020-07-19 16:10:17,532 DEBUG server data = 
+2020-07-19 16:10:17,532 DEBUG funx message complete, time:Sun Jul 19 16:10:17 2020
+2020-07-19 16:10:18,535 DEBUG server data = 
+2020-07-19 16:10:18,535 DEBUG funx message complete, time:Sun Jul 19 16:10:18 2020
+2020-07-19 16:10:19,545 DEBUG server data = 
+2020-07-19 16:10:19,545 DEBUG funx message complete, time:Sun Jul 19 16:10:19 2020
+2020-07-19 16:10:20,573 DEBUG server data = 
+2020-07-19 16:10:20,573 DEBUG funx message complete, time:Sun Jul 19 16:10:20 2020
+2020-07-19 16:10:21,577 DEBUG server data = 
+2020-07-19 16:10:21,577 DEBUG funx message complete, time:Sun Jul 19 16:10:21 2020
+2020-07-19 16:10:22,579 DEBUG server data = 
+2020-07-19 16:10:22,579 DEBUG funx message complete, time:Sun Jul 19 16:10:22 2020
+2020-07-19 16:10:23,587 DEBUG server data = 
+2020-07-19 16:10:23,587 DEBUG funx message complete, time:Sun Jul 19 16:10:23 2020
+2020-07-19 16:10:24,596 DEBUG server data = 
+2020-07-19 16:10:24,596 DEBUG funx message complete, time:Sun Jul 19 16:10:24 2020
+2020-07-19 16:10:25,606 DEBUG server data = 
+2020-07-19 16:10:25,607 DEBUG funx message complete, time:Sun Jul 19 16:10:25 2020
+2020-07-19 16:10:26,611 DEBUG server data = 
+2020-07-19 16:10:26,611 DEBUG funx message complete, time:Sun Jul 19 16:10:26 2020
+2020-07-19 16:10:27,617 DEBUG server data = 
+2020-07-19 16:10:27,617 DEBUG funx message complete, time:Sun Jul 19 16:10:27 2020
+2020-07-19 16:10:28,621 DEBUG server data = 
+2020-07-19 16:10:28,622 DEBUG funx message complete, time:Sun Jul 19 16:10:28 2020
+2020-07-19 16:10:29,634 DEBUG server data = 
+2020-07-19 16:10:29,634 DEBUG funx message complete, time:Sun Jul 19 16:10:29 2020
+2020-07-19 16:10:30,639 DEBUG server data = 
+2020-07-19 16:10:30,639 DEBUG funx message complete, time:Sun Jul 19 16:10:30 2020
+2020-07-19 16:10:31,644 DEBUG server data = 
+2020-07-19 16:10:31,644 DEBUG funx message complete, time:Sun Jul 19 16:10:31 2020
+2020-07-19 16:10:32,655 DEBUG server data = 
+2020-07-19 16:10:32,655 DEBUG funx message complete, time:Sun Jul 19 16:10:32 2020
+2020-07-19 16:10:33,665 DEBUG server data = 
+2020-07-19 16:10:33,665 DEBUG funx message complete, time:Sun Jul 19 16:10:33 2020
+2020-07-19 16:10:34,670 DEBUG server data = 
+2020-07-19 16:10:34,670 DEBUG funx message complete, time:Sun Jul 19 16:10:34 2020
+2020-07-19 16:10:35,683 DEBUG server data = 
+2020-07-19 16:10:35,683 DEBUG funx message complete, time:Sun Jul 19 16:10:35 2020
+2020-07-19 16:19:26,824 INFO logger logging started
+2020-07-19 16:19:26,826 INFO server server started
+2020-07-19 16:19:26,826 INFO server server started
+2020-07-19 16:19:30,527 INFO server Получен запрос на соединение с ('127.0.0.1', 55290)
+2020-07-19 16:19:33,550 DEBUG server data = 
+2020-07-19 16:19:33,550 DEBUG funx message complete, time:Sun Jul 19 16:19:33 2020
+2020-07-19 16:19:34,555 DEBUG server data = 
+2020-07-19 16:19:34,555 DEBUG funx message complete, time:Sun Jul 19 16:19:34 2020
+2020-07-19 16:19:35,561 DEBUG server data = 
+2020-07-19 16:19:35,561 DEBUG funx message complete, time:Sun Jul 19 16:19:35 2020
+2020-07-19 16:19:36,572 DEBUG server data = 
+2020-07-19 16:19:36,573 DEBUG funx message complete, time:Sun Jul 19 16:19:36 2020
+2020-07-19 16:19:37,576 DEBUG server data = 
+2020-07-19 16:19:37,576 DEBUG funx message complete, time:Sun Jul 19 16:19:37 2020
+2020-07-19 16:19:38,582 DEBUG server data = 
+2020-07-19 16:19:38,582 DEBUG funx message complete, time:Sun Jul 19 16:19:38 2020
+2020-07-19 16:19:39,589 DEBUG server data = 
+2020-07-19 16:19:39,589 DEBUG funx message complete, time:Sun Jul 19 16:19:39 2020
+2020-07-19 16:19:40,601 DEBUG server data = 
+2020-07-19 16:19:40,601 DEBUG funx message complete, time:Sun Jul 19 16:19:40 2020
+2020-07-19 16:19:41,608 DEBUG server data = 
+2020-07-19 16:19:41,608 DEBUG funx message complete, time:Sun Jul 19 16:19:41 2020
+2020-07-19 16:19:42,611 DEBUG server data = 
+2020-07-19 16:19:42,612 DEBUG funx message complete, time:Sun Jul 19 16:19:42 2020
+2020-07-19 16:19:43,623 DEBUG server data = 
+2020-07-19 16:19:43,623 DEBUG funx message complete, time:Sun Jul 19 16:19:43 2020
+2020-07-19 16:19:44,637 DEBUG server data = 
+2020-07-19 16:19:44,637 DEBUG funx message complete, time:Sun Jul 19 16:19:44 2020
+2020-07-19 16:19:45,644 DEBUG server data = 
+2020-07-19 16:19:45,644 DEBUG funx message complete, time:Sun Jul 19 16:19:45 2020
+2020-07-19 16:19:46,652 DEBUG server data = 
+2020-07-19 16:19:46,652 DEBUG funx message complete, time:Sun Jul 19 16:19:46 2020
+2020-07-19 16:19:47,667 DEBUG server data = 
+2020-07-19 16:19:47,667 DEBUG funx message complete, time:Sun Jul 19 16:19:47 2020
+2020-07-19 16:19:48,674 DEBUG server data = 
+2020-07-19 16:19:48,674 DEBUG funx message complete, time:Sun Jul 19 16:19:48 2020
+2020-07-19 16:19:49,689 DEBUG server data = 
+2020-07-19 16:19:49,689 DEBUG funx message complete, time:Sun Jul 19 16:19:49 2020
+2020-07-19 16:19:50,700 DEBUG server data = 
+2020-07-19 16:19:50,700 DEBUG funx message complete, time:Sun Jul 19 16:19:50 2020
+2020-07-19 16:19:51,709 DEBUG server data = 
+2020-07-19 16:19:51,709 DEBUG funx message complete, time:Sun Jul 19 16:19:51 2020
+2020-07-19 16:19:52,723 DEBUG server data = 
+2020-07-19 16:19:52,723 DEBUG funx message complete, time:Sun Jul 19 16:19:52 2020
+2020-07-19 16:19:53,731 DEBUG server data = 
+2020-07-19 16:19:53,732 DEBUG funx message complete, time:Sun Jul 19 16:19:53 2020
+2020-07-19 16:19:54,745 DEBUG server data = 
+2020-07-19 16:19:54,745 DEBUG funx message complete, time:Sun Jul 19 16:19:54 2020
+2020-07-19 16:19:55,755 DEBUG server data = 
+2020-07-19 16:19:55,755 DEBUG funx message complete, time:Sun Jul 19 16:19:55 2020
+2020-07-19 16:19:56,769 DEBUG server data = 
+2020-07-19 16:19:56,769 DEBUG funx message complete, time:Sun Jul 19 16:19:56 2020
+2020-07-19 16:19:57,775 DEBUG server data = 
+2020-07-19 16:19:57,775 DEBUG funx message complete, time:Sun Jul 19 16:19:57 2020
+2020-07-19 16:19:58,788 DEBUG server data = 
+2020-07-19 16:19:58,788 DEBUG funx message complete, time:Sun Jul 19 16:19:58 2020
+2020-07-19 16:19:59,795 DEBUG server data = 
+2020-07-19 16:19:59,795 DEBUG funx message complete, time:Sun Jul 19 16:19:59 2020
+2020-07-19 16:20:00,811 DEBUG server data = 
+2020-07-19 16:20:00,811 DEBUG funx message complete, time:Sun Jul 19 16:20:00 2020
+2020-07-19 16:20:01,821 DEBUG server data = 
+2020-07-19 16:20:01,821 DEBUG funx message complete, time:Sun Jul 19 16:20:01 2020
+2020-07-19 16:20:02,826 DEBUG server data = 
+2020-07-19 16:20:02,826 DEBUG funx message complete, time:Sun Jul 19 16:20:02 2020
+2020-07-19 16:20:03,839 DEBUG server data = 
+2020-07-19 16:20:03,839 DEBUG funx message complete, time:Sun Jul 19 16:20:03 2020
+2020-07-19 16:20:04,850 DEBUG server data = 
+2020-07-19 16:20:04,850 DEBUG funx message complete, time:Sun Jul 19 16:20:04 2020
+2020-07-19 16:20:05,865 DEBUG server data = 
+2020-07-19 16:20:05,865 DEBUG funx message complete, time:Sun Jul 19 16:20:05 2020
+2020-07-19 16:20:06,870 DEBUG server data = 
+2020-07-19 16:20:06,870 DEBUG funx message complete, time:Sun Jul 19 16:20:06 2020
+2020-07-19 16:20:07,878 DEBUG server data = 
+2020-07-19 16:20:07,878 DEBUG funx message complete, time:Sun Jul 19 16:20:07 2020
+2020-07-19 16:20:08,883 DEBUG server data = 
+2020-07-19 16:20:08,883 DEBUG funx message complete, time:Sun Jul 19 16:20:08 2020
+2020-07-19 16:20:09,892 DEBUG server data = 
+2020-07-19 16:20:09,892 DEBUG funx message complete, time:Sun Jul 19 16:20:09 2020
+2020-07-19 16:20:10,893 DEBUG server data = 
+2020-07-19 16:20:10,893 DEBUG funx message complete, time:Sun Jul 19 16:20:10 2020
+2020-07-19 16:20:11,908 DEBUG server data = 
+2020-07-19 16:20:11,908 DEBUG funx message complete, time:Sun Jul 19 16:20:11 2020
+2020-07-19 16:20:12,920 DEBUG server data = 
+2020-07-19 16:20:12,920 DEBUG funx message complete, time:Sun Jul 19 16:20:12 2020
+2020-07-19 16:20:13,934 DEBUG server data = 
+2020-07-19 16:20:13,934 DEBUG funx message complete, time:Sun Jul 19 16:20:13 2020
+2020-07-19 16:20:14,939 DEBUG server data = 
+2020-07-19 16:20:14,939 DEBUG funx message complete, time:Sun Jul 19 16:20:14 2020
+2020-07-19 16:20:15,943 DEBUG server data = 
+2020-07-19 16:20:15,943 DEBUG funx message complete, time:Sun Jul 19 16:20:15 2020
+2020-07-19 16:20:16,948 DEBUG server data = 
+2020-07-19 16:20:16,948 DEBUG funx message complete, time:Sun Jul 19 16:20:16 2020
+2020-07-19 16:20:17,963 DEBUG server data = 
+2020-07-19 16:20:17,963 DEBUG funx message complete, time:Sun Jul 19 16:20:17 2020
+2020-07-19 16:20:18,977 DEBUG server data = 
+2020-07-19 16:20:18,977 DEBUG funx message complete, time:Sun Jul 19 16:20:18 2020
+2020-07-19 16:20:19,991 DEBUG server data = 
+2020-07-19 16:20:19,991 DEBUG funx message complete, time:Sun Jul 19 16:20:19 2020
+2020-07-19 16:20:20,995 DEBUG server data = 
+2020-07-19 16:20:20,995 DEBUG funx message complete, time:Sun Jul 19 16:20:20 2020
+2020-07-19 16:20:21,998 DEBUG server data = 
+2020-07-19 16:20:21,998 DEBUG funx message complete, time:Sun Jul 19 16:20:21 2020
+2020-07-19 16:20:23,011 DEBUG server data = 
+2020-07-19 16:20:23,012 DEBUG funx message complete, time:Sun Jul 19 16:20:23 2020
+2020-07-19 16:20:24,015 DEBUG server data = 
+2020-07-19 16:20:24,015 DEBUG funx message complete, time:Sun Jul 19 16:20:24 2020
+2020-07-19 16:20:25,023 DEBUG server data = 
+2020-07-19 16:20:25,023 DEBUG funx message complete, time:Sun Jul 19 16:20:25 2020
+2020-07-19 16:20:26,037 DEBUG server data = 
+2020-07-19 16:20:26,037 DEBUG funx message complete, time:Sun Jul 19 16:20:26 2020
+2020-07-19 16:20:27,051 DEBUG server data = 
+2020-07-19 16:20:27,051 DEBUG funx message complete, time:Sun Jul 19 16:20:27 2020
+2020-07-19 16:20:28,059 DEBUG server data = 
+2020-07-19 16:20:28,059 DEBUG funx message complete, time:Sun Jul 19 16:20:28 2020
+2020-07-19 16:20:29,067 DEBUG server data = 
+2020-07-19 16:20:29,067 DEBUG funx message complete, time:Sun Jul 19 16:20:29 2020
+2020-07-19 16:20:30,075 DEBUG server data = 
+2020-07-19 16:20:30,075 DEBUG funx message complete, time:Sun Jul 19 16:20:30 2020
+2020-07-19 16:20:31,085 DEBUG server data = 
+2020-07-19 16:20:31,085 DEBUG funx message complete, time:Sun Jul 19 16:20:31 2020
+2020-07-19 16:20:32,100 DEBUG server data = 
+2020-07-19 16:20:32,100 DEBUG funx message complete, time:Sun Jul 19 16:20:32 2020
+2020-07-19 16:20:33,112 DEBUG server data = 
+2020-07-19 16:20:33,112 DEBUG funx message complete, time:Sun Jul 19 16:20:33 2020
+2020-07-19 16:20:34,121 DEBUG server data = 
+2020-07-19 16:20:34,121 DEBUG funx message complete, time:Sun Jul 19 16:20:34 2020
+2020-07-19 16:20:35,123 DEBUG server data = 
+2020-07-19 16:20:35,123 DEBUG funx message complete, time:Sun Jul 19 16:20:35 2020
+2020-07-19 16:20:36,132 DEBUG server data = 
+2020-07-19 16:20:36,132 DEBUG funx message complete, time:Sun Jul 19 16:20:36 2020
+2020-07-19 16:20:37,139 DEBUG server data = 
+2020-07-19 16:20:37,139 DEBUG funx message complete, time:Sun Jul 19 16:20:37 2020
+2020-07-19 16:20:38,153 DEBUG server data = 
+2020-07-19 16:20:38,153 DEBUG funx message complete, time:Sun Jul 19 16:20:38 2020
+2020-07-19 16:20:39,166 DEBUG server data = 
+2020-07-19 16:20:39,166 DEBUG funx message complete, time:Sun Jul 19 16:20:39 2020
+2020-07-19 16:20:40,167 DEBUG server data = 
+2020-07-19 16:20:40,167 DEBUG funx message complete, time:Sun Jul 19 16:20:40 2020
+2020-07-19 16:20:41,176 DEBUG server data = 
+2020-07-19 16:20:41,176 DEBUG funx message complete, time:Sun Jul 19 16:20:41 2020
+2020-07-19 16:20:41,992 INFO server Получен запрос на соединение с ('127.0.0.1', 55293)
+2020-07-19 16:20:41,992 DEBUG server data = 
+2020-07-19 16:20:41,992 DEBUG funx message complete, time:Sun Jul 19 16:20:41 2020
+2020-07-19 16:20:41,992 DEBUG funx message complete, time:Sun Jul 19 16:20:41 2020
+2020-07-19 16:20:42,996 DEBUG server data = 
+2020-07-19 16:20:42,996 DEBUG funx message complete, time:Sun Jul 19 16:20:42 2020
+2020-07-19 16:20:42,996 DEBUG funx message complete, time:Sun Jul 19 16:20:42 2020
+2020-07-19 16:20:44,004 DEBUG server data = 
+2020-07-19 16:20:44,005 DEBUG funx message complete, time:Sun Jul 19 16:20:44 2020
+2020-07-19 16:20:44,005 DEBUG funx message complete, time:Sun Jul 19 16:20:44 2020
+2020-07-19 16:20:45,006 DEBUG server data = 
+2020-07-19 16:20:45,006 DEBUG server data = message
+Sun Jul 19 16:20:44 2020
+all
+Nick
+фффффффффффффффффф
+2020-07-19 16:20:45,007 DEBUG funx message complete, time:Sun Jul 19 16:20:45 2020
+2020-07-19 16:20:45,007 DEBUG funx message complete, time:Sun Jul 19 16:20:45 2020
+2020-07-19 16:20:45,007 DEBUG funx message complete, time:Sun Jul 19 16:20:45 2020
+2020-07-19 16:20:45,007 DEBUG funx message complete, time:Sun Jul 19 16:20:45 2020
+2020-07-19 16:20:46,022 ERROR server Клиент 324 ('127.0.0.1', 55290) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 16:20:50,062 DEBUG server data = message
+Sun Jul 19 16:20:49 2020
+all
+Nick
+фффффф
+2020-07-19 16:20:50,062 DEBUG funx message complete, time:Sun Jul 19 16:20:50 2020
+2020-07-19 16:20:52,084 DEBUG server data = message
+Sun Jul 19 16:20:51 2020
+all
+Nick
+ффффффф
+2020-07-19 16:20:52,084 DEBUG funx message complete, time:Sun Jul 19 16:20:52 2020
+2020-07-19 16:20:53,091 DEBUG server data = message
+Sun Jul 19 16:20:52 2020
+all
+Nick
+ффффффф
+2020-07-19 16:20:53,091 DEBUG funx message complete, time:Sun Jul 19 16:20:53 2020
+2020-07-19 16:20:55,115 DEBUG server data = message
+Sun Jul 19 16:20:54 2020
+all
+Nick
+фффффффффффффффффф
+2020-07-19 16:20:55,115 DEBUG funx message complete, time:Sun Jul 19 16:20:55 2020
+2020-07-19 16:20:56,124 DEBUG server data = message
+Sun Jul 19 16:20:55 2020
+all
+Nick
+ф
+2020-07-19 16:20:56,124 DEBUG funx message complete, time:Sun Jul 19 16:20:56 2020
+2020-07-19 16:20:57,131 DEBUG server data = message
+Sun Jul 19 16:20:56 2020
+all
+Nick
+
+2020-07-19 16:20:57,132 DEBUG funx message complete, time:Sun Jul 19 16:20:57 2020
+2020-07-19 16:21:10,363 INFO server Получен запрос на соединение с ('127.0.0.1', 55295)
+2020-07-19 16:21:15,111 INFO server Получен запрос на соединение с ('127.0.0.1', 55296)
+2020-07-19 16:21:17,986 INFO logger logging started
+2020-07-19 16:21:17,986 INFO monitor client started
+2020-07-19 16:21:17,987 INFO server Получен запрос на соединение с ('127.0.0.1', 55298)
+2020-07-19 16:21:22,025 DEBUG server data = message
+Sun Jul 19 16:21:21 2020
+all
+Nick
+aaaaaaaaaaaaaaaa
+2020-07-19 16:21:22,025 DEBUG funx message complete, time:Sun Jul 19 16:21:22 2020
+2020-07-19 16:21:22,025 DEBUG funx message complete, time:Sun Jul 19 16:21:22 2020
+2020-07-19 16:21:22,025 DEBUG funx message complete, time:Sun Jul 19 16:21:22 2020
+2020-07-19 16:21:22,025 DEBUG funx message complete, time:Sun Jul 19 16:21:22 2020
+2020-07-19 16:21:22,026 INFO funx Message from Nick to all received at Sun Jul 19 16:21:21 2020 
+	aaaaaaaaaaaaaaaa
+2020-07-19 16:21:22,027 INFO monitor b'message\nSun Jul 19 16:21:21 2020\nall\nNick\naaaaaaaaaaaaaaaa' received
+2020-07-19 16:21:32,125 DEBUG server data = message
+Sun Jul 19 16:21:31 2020
+all
+Nick
+aaaaaaaa
+2020-07-19 16:21:32,126 DEBUG funx message complete, time:Sun Jul 19 16:21:32 2020
+2020-07-19 16:21:32,126 DEBUG funx message complete, time:Sun Jul 19 16:21:32 2020
+2020-07-19 16:21:32,126 DEBUG funx message complete, time:Sun Jul 19 16:21:32 2020
+2020-07-19 16:21:32,126 DEBUG funx message complete, time:Sun Jul 19 16:21:32 2020
+2020-07-19 16:21:32,127 INFO funx Message from Nick to all received at Sun Jul 19 16:21:31 2020 
+	aaaaaaaa
+2020-07-19 16:21:32,127 INFO monitor b'message\nSun Jul 19 16:21:31 2020\nall\nNick\naaaaaaaa' received
+2020-07-19 16:21:35,156 DEBUG server data = message
+Sun Jul 19 16:21:34 2020
+all
+Nick
+asssssssssss
+2020-07-19 16:21:35,157 DEBUG funx message complete, time:Sun Jul 19 16:21:35 2020
+2020-07-19 16:21:35,157 DEBUG funx message complete, time:Sun Jul 19 16:21:35 2020
+2020-07-19 16:21:35,157 DEBUG funx message complete, time:Sun Jul 19 16:21:35 2020
+2020-07-19 16:21:35,158 DEBUG funx message complete, time:Sun Jul 19 16:21:35 2020
+2020-07-19 16:21:35,158 INFO funx Message from Nick to all received at Sun Jul 19 16:21:34 2020 
+	asssssssssss
+2020-07-19 16:21:35,158 INFO monitor b'message\nSun Jul 19 16:21:34 2020\nall\nNick\nasssssssssss' received
+2020-07-19 16:21:36,168 ERROR server Клиент 648 ('127.0.0.1', 55295) отключился
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 16:22:06,444 ERROR server Клиент 656 ('127.0.0.1', 55296) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-19 16:23:42,703 INFO logger logging started
+2020-07-19 16:23:42,705 INFO server server started
+2020-07-19 16:23:42,705 INFO server server started
+2020-07-19 16:23:52,381 INFO logger logging started
+2020-07-19 16:23:52,381 INFO monitor client started
+2020-07-19 16:23:52,383 INFO server Получен запрос на соединение с ('127.0.0.1', 55304)
+2020-07-19 16:23:57,321 INFO server Получен запрос на соединение с ('127.0.0.1', 55305)
+2020-07-19 16:24:03,380 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:24:02 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 16:24:03,380 DEBUG funx message complete, time:Sun Jul 19 16:24:03 2020
+2020-07-19 16:24:03,381 DEBUG funx message complete, time:Sun Jul 19 16:24:03 2020
+2020-07-19 16:24:03,384 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:02 2020 
+	ффффффффффффффффффффффффффф
+2020-07-19 16:24:03,384 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:24:02 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:24:10,440 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:24:09 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 16:24:10,440 DEBUG funx message complete, time:Sun Jul 19 16:24:10 2020
+2020-07-19 16:24:10,441 DEBUG funx message complete, time:Sun Jul 19 16:24:10 2020
+2020-07-19 16:24:10,444 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:09 2020 
+	фффффффффффффффффффффффффф
+2020-07-19 16:24:10,444 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:24:09 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:24:12,455 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:24:12 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444"}
+2020-07-19 16:24:12,455 DEBUG funx message complete, time:Sun Jul 19 16:24:12 2020
+2020-07-19 16:24:12,456 DEBUG funx message complete, time:Sun Jul 19 16:24:12 2020
+2020-07-19 16:24:12,456 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:12 2020 
+	ффф
+2020-07-19 16:24:12,457 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:24:12 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:24:14,477 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:24:13 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444"}
+2020-07-19 16:24:14,477 DEBUG funx message complete, time:Sun Jul 19 16:24:14 2020
+2020-07-19 16:24:14,478 DEBUG funx message complete, time:Sun Jul 19 16:24:14 2020
+2020-07-19 16:24:14,480 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:13 2020 
+	фф
+2020-07-19 16:24:14,480 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:24:13 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444"}' received
+2020-07-19 16:24:17,503 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:24:16 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 16:24:17,504 DEBUG funx message complete, time:Sun Jul 19 16:24:17 2020
+2020-07-19 16:24:17,504 DEBUG funx message complete, time:Sun Jul 19 16:24:17 2020
+2020-07-19 16:24:17,507 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:16 2020 
+	фффффффффффффффффффффффф
+2020-07-19 16:24:17,507 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:24:16 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:24:19,516 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:24:18 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444"}
+2020-07-19 16:24:19,517 DEBUG funx message complete, time:Sun Jul 19 16:24:19 2020
+2020-07-19 16:24:19,517 DEBUG funx message complete, time:Sun Jul 19 16:24:19 2020
+2020-07-19 16:24:19,520 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:18 2020 
+	ф
+2020-07-19 16:24:19,520 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:24:18 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444"}' received
+2020-07-19 16:25:39,714 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-19 16:25:40,153 INFO logger logging started
+2020-07-19 16:25:40,155 INFO server server started
+2020-07-19 16:25:40,155 INFO server server started
+2020-07-19 16:25:50,004 INFO server Получен запрос на соединение с ('127.0.0.1', 55310)
+2020-07-19 16:25:54,012 INFO logger logging started
+2020-07-19 16:25:54,012 INFO monitor client started
+2020-07-19 16:25:54,013 INFO server Получен запрос на соединение с ('127.0.0.1', 55315)
+2020-07-19 16:25:58,038 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:25:57 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 16:25:58,038 DEBUG funx message complete, time:Sun Jul 19 16:25:58 2020
+2020-07-19 16:25:58,039 DEBUG funx message complete, time:Sun Jul 19 16:25:58 2020
+2020-07-19 16:25:58,040 INFO funx Message from Nick to Alex received at Sun Jul 19 16:25:57 2020 
+	ффффффффффффффф
+2020-07-19 16:25:58,040 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:25:57 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:26:04,110 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:26:03 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 16:26:04,110 DEBUG funx message complete, time:Sun Jul 19 16:26:04 2020
+2020-07-19 16:26:04,111 DEBUG funx message complete, time:Sun Jul 19 16:26:04 2020
+2020-07-19 16:26:04,114 INFO funx Message from Nick to Alex received at Sun Jul 19 16:26:03 2020 
+	ффффффффффффффффффффф
+2020-07-19 16:26:04,114 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:26:03 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:26:07,138 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:26:06 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 16:26:07,138 DEBUG funx message complete, time:Sun Jul 19 16:26:07 2020
+2020-07-19 16:26:07,139 DEBUG funx message complete, time:Sun Jul 19 16:26:07 2020
+2020-07-19 16:26:07,141 INFO funx Message from Nick to Alex received at Sun Jul 19 16:26:06 2020 
+	фффффф
+2020-07-19 16:26:07,141 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:26:06 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:26:10,168 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:26:10 2020", "to": "Alex", "from_user": "Nick", "message": "\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444\u0444"}
+2020-07-19 16:26:10,168 DEBUG funx message complete, time:Sun Jul 19 16:26:10 2020
+2020-07-19 16:26:10,168 DEBUG funx message complete, time:Sun Jul 19 16:26:10 2020
+2020-07-19 16:26:10,169 INFO funx Message from Nick to Alex received at Sun Jul 19 16:26:10 2020 
+	ффффффффффффффффф
+2020-07-19 16:26:10,169 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:26:10 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:29:50,649 INFO logger logging started
+2020-07-19 16:29:50,651 INFO server server started
+2020-07-19 16:29:50,651 INFO server server started
+2020-07-19 16:29:54,663 INFO server Получен запрос на соединение с ('127.0.0.1', 55324)
+2020-07-19 16:29:57,382 INFO logger logging started
+2020-07-19 16:29:57,382 INFO monitor client started
+2020-07-19 16:29:57,383 INFO server Получен запрос на соединение с ('127.0.0.1', 55325)
+2020-07-19 16:30:01,411 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:01 2020", "to": "Alex", "from_user": "Nick", "message": "asdasdasdasdasd"}
+2020-07-19 16:30:01,411 DEBUG funx message complete, time:Sun Jul 19 16:30:01 2020
+2020-07-19 16:30:01,412 DEBUG funx message complete, time:Sun Jul 19 16:30:01 2020
+2020-07-19 16:30:01,412 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:01 2020 
+	asdasdasdasdasd
+2020-07-19 16:30:01,413 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:01 2020", "to": "Alex", "from_user": "Nick", "message": "asdasdasdasdasd"}' received
+2020-07-19 16:30:07,463 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:06 2020", "to": "Alex", "from_user": "Nick", "message": "asddddddddddddddddd"}
+2020-07-19 16:30:07,463 DEBUG funx message complete, time:Sun Jul 19 16:30:07 2020
+2020-07-19 16:30:07,463 DEBUG funx message complete, time:Sun Jul 19 16:30:07 2020
+2020-07-19 16:30:07,463 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:06 2020 
+	asddddddddddddddddd
+2020-07-19 16:30:07,464 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:06 2020", "to": "Alex", "from_user": "Nick", "message": "asddddddddddddddddd"}' received
+2020-07-19 16:30:11,494 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:11 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaadddddddddddddddd"}
+2020-07-19 16:30:11,494 DEBUG funx message complete, time:Sun Jul 19 16:30:11 2020
+2020-07-19 16:30:11,494 DEBUG funx message complete, time:Sun Jul 19 16:30:11 2020
+2020-07-19 16:30:11,494 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:11 2020 
+	aaaaaaaaaaaaaaaadddddddddddddddd
+2020-07-19 16:30:11,495 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:11 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaadddddddddddddddd"}' received
+2020-07-19 16:30:14,516 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:14 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaadddddddddddd"}
+2020-07-19 16:30:14,516 DEBUG funx message complete, time:Sun Jul 19 16:30:14 2020
+2020-07-19 16:30:14,517 DEBUG funx message complete, time:Sun Jul 19 16:30:14 2020
+2020-07-19 16:30:14,517 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:14 2020 
+	aaaaaaaaaaaaadddddddddddd
+2020-07-19 16:30:14,525 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:14 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaadddddddddddd"}' received
+2020-07-19 16:30:18,542 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:17 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddd"}
+2020-07-19 16:30:18,542 DEBUG funx message complete, time:Sun Jul 19 16:30:18 2020
+2020-07-19 16:30:18,543 DEBUG funx message complete, time:Sun Jul 19 16:30:18 2020
+2020-07-19 16:30:18,543 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:17 2020 
+	aaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddd
+2020-07-19 16:30:18,545 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:17 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddd"}' received
+2020-07-19 16:30:19,549 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:19 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaa"}
+2020-07-19 16:30:19,549 DEBUG funx message complete, time:Sun Jul 19 16:30:19 2020
+2020-07-19 16:30:19,550 DEBUG funx message complete, time:Sun Jul 19 16:30:19 2020
+2020-07-19 16:30:19,550 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:19 2020 
+	aaaaa
+2020-07-19 16:30:19,551 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:19 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaa"}' received
+2020-07-19 16:30:21,562 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:20 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddd"}
+2020-07-19 16:30:21,562 DEBUG funx message complete, time:Sun Jul 19 16:30:21 2020
+2020-07-19 16:30:21,563 DEBUG funx message complete, time:Sun Jul 19 16:30:21 2020
+2020-07-19 16:30:21,563 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:20 2020 
+	dddddddddddddd
+2020-07-19 16:30:21,564 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:20 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddd"}' received
+2020-07-19 16:30:22,569 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:22 2020", "to": "Alex", "from_user": "Nick", "message": "aaaa"}
+2020-07-19 16:30:22,570 DEBUG funx message complete, time:Sun Jul 19 16:30:22 2020
+2020-07-19 16:30:22,570 DEBUG funx message complete, time:Sun Jul 19 16:30:22 2020
+2020-07-19 16:30:22,570 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:22 2020 
+	aaaa
+2020-07-19 16:30:22,572 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:22 2020", "to": "Alex", "from_user": "Nick", "message": "aaaa"}' received
+2020-07-19 16:30:23,579 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:30:23 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddd"}
+2020-07-19 16:30:23,580 DEBUG funx message complete, time:Sun Jul 19 16:30:23 2020
+2020-07-19 16:30:23,580 DEBUG funx message complete, time:Sun Jul 19 16:30:23 2020
+2020-07-19 16:30:23,582 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:23 2020 
+	ddddddddddd
+2020-07-19 16:30:23,584 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:30:23 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddd"}' received
+2020-07-19 16:31:10,037 ERROR server Клиент 384 ('127.0.0.1', 55324) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-19 16:31:11,752 INFO server Получен запрос на соединение с ('127.0.0.1', 55332)
+2020-07-19 16:31:14,764 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:31:13 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaa"}
+2020-07-19 16:31:14,764 DEBUG funx message complete, time:Sun Jul 19 16:31:14 2020
+2020-07-19 16:31:14,764 DEBUG funx message complete, time:Sun Jul 19 16:31:14 2020
+2020-07-19 16:31:14,764 INFO funx Message from Nick to Alex received at Sun Jul 19 16:31:13 2020 
+	aaaaaaaaaaaaaaaaa
+2020-07-19 16:31:14,765 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:31:13 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaa"}' received
+2020-07-19 16:31:16,775 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:31:16 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddddddd"}
+2020-07-19 16:31:16,775 DEBUG funx message complete, time:Sun Jul 19 16:31:16 2020
+2020-07-19 16:31:16,775 DEBUG funx message complete, time:Sun Jul 19 16:31:16 2020
+2020-07-19 16:31:16,775 INFO funx Message from Nick to Alex received at Sun Jul 19 16:31:16 2020 
+	ddddddddddddddd
+2020-07-19 16:31:16,776 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:31:16 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddddddd"}' received
+2020-07-19 16:31:21,820 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:31:21 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaa"}
+2020-07-19 16:31:21,820 DEBUG funx message complete, time:Sun Jul 19 16:31:21 2020
+2020-07-19 16:31:21,820 DEBUG funx message complete, time:Sun Jul 19 16:31:21 2020
+2020-07-19 16:31:21,820 INFO funx Message from Nick to Alex received at Sun Jul 19 16:31:21 2020 
+	aaaaaaaaaaaaaaaaaaaaaaaaaa
+2020-07-19 16:31:21,821 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:31:21 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaa"}' received
+2020-07-19 16:31:24,849 DEBUG server data = {"action": "message", "time": "Sun Jul 19 16:31:24 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddddddddddddddddddddddddd"}
+2020-07-19 16:31:24,849 DEBUG funx message complete, time:Sun Jul 19 16:31:24 2020
+2020-07-19 16:31:24,849 DEBUG funx message complete, time:Sun Jul 19 16:31:24 2020
+2020-07-19 16:31:24,850 INFO funx Message from Nick to Alex received at Sun Jul 19 16:31:24 2020 
+	dddddddddddddddddddddddddddddddddddd
+2020-07-19 16:31:24,850 INFO monitor b'{"action": "message", "time": "Sun Jul 19 16:31:24 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddddddddddddddddddddddddd"}' received
