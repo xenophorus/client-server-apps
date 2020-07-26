@@ -5,6 +5,7 @@ from socket import SOCK_STREAM, AF_INET, socket
 from lib.decorators import log_dec
 from lib.funx import *
 from lib.logger import *
+from lib.classes import Message
 
 
 def read_requests(r_clients, all_clients):
@@ -21,13 +22,13 @@ def read_requests(r_clients, all_clients):
 
 
 def write_responses(requests, w_clients, all_clients):
-    # print(f'\t\t\t{requests}\n\n\t\t\t{all_clients}\n\n\t\t\t{w_clients}')
     for sock in all_clients:
         if sock in requests:
+            print(f'{requests}\n{w_clients}\n{all_clients}\n\n\n')
             try:
                 resp = requests[sock].encode('utf-8')
+
                 for i in w_clients:
-                    create_message('message sent')
                     i.send(resp)
             except Exception as e:
                 print(e)
@@ -37,7 +38,7 @@ def write_responses(requests, w_clients, all_clients):
 
 
 @log_dec
-def mainloop(address=('127.0.0.1', 9090)):
+def mainloop(address):
     clients = []
     s = socket(AF_INET, SOCK_STREAM)
     s.bind(address)
@@ -55,7 +56,7 @@ def mainloop(address=('127.0.0.1', 9090)):
             log.info(f'Получен запрос на соединение с {str(addr)}')
             clients.append(conn)
         finally:
-            wait = 10
+            wait = 50
             r = []
             w = []
             try:

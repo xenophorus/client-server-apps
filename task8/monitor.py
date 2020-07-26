@@ -1,6 +1,7 @@
 from socket import SOCK_STREAM, AF_INET, socket
 from lib.funx import *
 from lib.logger import *
+from lib.classes import Message
 
 
 def mainloop(address):
@@ -9,8 +10,9 @@ def mainloop(address):
         while True:
             try:
                 data = sock.recv(1024)
-                print(decoder(data))
-                log.info(f'{data} received')
+                msg = Message()
+                Message.decode(self=msg, data=data)
+                print(f'{msg.from_user} at {msg.time_date} said to {msg.to_user}:\n\t{msg.message}')
             except OSError as e:
                 log.critical(f'Something wrong. No answer from server.\n\t\t{e}')
                 sys.exit()

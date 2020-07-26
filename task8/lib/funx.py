@@ -41,14 +41,13 @@ def decoder(data):
     from_user = ddata.get('from_user')
     message = ddata.get('message')
     log.info(f'Message from {from_user} to {to} received at {time_} \n\t{message}')
-    return message
+    return [from_user, to, time_, message]
 
 
-def create_message(msg):
+def create_message(msg, msg_from_user):
     msg_action = 'message'
     msg_time = time.asctime()
-    msg_to_user = 'Alex'
-    msg_from_user = 'Nick'
+    msg_to_user = 'all'
     log.debug(f'message complete, time:{msg_time}')
     return dict(action=msg_action, time=msg_time, to=msg_to_user,
                 from_user=msg_from_user, message=msg)

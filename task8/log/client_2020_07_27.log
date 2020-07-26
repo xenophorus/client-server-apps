@@ -1,0 +1,68 @@
+2020-07-27 00:20:31,777 INFO logger logging started
+2020-07-27 00:20:31,782 INFO client client started
+2020-07-27 00:20:46,315 INFO logger logging started
+2020-07-27 00:20:46,323 INFO client client started
+2020-07-27 00:20:46,326 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:20:46 2020", "to": "all", "from_user": "Serena", "message": ""}' sent
+2020-07-27 00:25:44,371 INFO logger logging started
+2020-07-27 00:25:44,375 INFO client client started
+2020-07-27 00:25:44,377 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:25:44 2020", "to": "all", "from_user": "Jonah", "message": ""}' sent
+2020-07-27 00:26:41,666 INFO logger logging started
+2020-07-27 00:26:41,673 INFO client client started
+2020-07-27 00:26:41,675 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:26:41 2020", "to": "all", "from_user": "Hudson", "message": ""}' sent
+2020-07-27 00:26:47,430 INFO client b'{"action": "message", "time": "Mon Jul 27 00:26:41 2020", "to": "all", "from_user": "Hudson", "message": "asdasdasd"}' sent
+2020-07-27 00:26:49,902 INFO client b'{"action": "message", "time": "Mon Jul 27 00:26:47 2020", "to": "all", "from_user": "Hudson", "message": "asdasd"}' sent
+2020-07-27 00:26:53,166 INFO client b'{"action": "message", "time": "Mon Jul 27 00:26:49 2020", "to": "all", "from_user": "Hudson", "message": "asdasd"}' sent
+2020-07-27 00:26:55,886 INFO client b'{"action": "message", "time": "Mon Jul 27 00:26:53 2020", "to": "all", "from_user": "Hudson", "message": "asdasdasd"}' sent
+2020-07-27 00:27:21,734 INFO client b'{"action": "message", "time": "Mon Jul 27 00:26:55 2020", "to": "all", "from_user": "Hudson", "message": "asdasdasd"}' sent
+2020-07-27 00:27:38,608 INFO logger logging started
+2020-07-27 00:27:38,613 INFO client client started
+2020-07-27 00:27:38,616 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:27:38 2020", "to": "all", "from_user": "Stetson", "message": ""}' sent
+2020-07-27 00:27:38,733 INFO logger logging started
+2020-07-27 00:27:38,739 INFO client client started
+2020-07-27 00:27:38,742 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:27:38 2020", "to": "all", "from_user": "Sophie", "message": ""}' sent
+2020-07-27 00:27:46,970 INFO client b'{"action": "message", "time": "Mon Jul 27 00:27:38 2020", "to": "all", "from_user": "Sophie", "message": "asdasd"}' sent
+2020-07-27 00:27:49,682 INFO client b'{"action": "message", "time": "Mon Jul 27 00:27:46 2020", "to": "all", "from_user": "Sophie", "message": "asdasd"}' sent
+2020-07-27 00:27:51,530 INFO client b'{"action": "message", "time": "Mon Jul 27 00:27:49 2020", "to": "all", "from_user": "Sophie", "message": "asd"}' sent
+2020-07-27 00:27:54,058 INFO client b'{"action": "message", "time": "Mon Jul 27 00:27:51 2020", "to": "all", "from_user": "Sophie", "message": "asdasdasd"}' sent
+2020-07-27 00:27:56,874 INFO client b'{"action": "message", "time": "Mon Jul 27 00:27:54 2020", "to": "all", "from_user": "Sophie", "message": "asd"}' sent
+2020-07-27 00:28:08,603 INFO client b'{"action": "message", "time": "Mon Jul 27 00:27:56 2020", "to": "all", "from_user": "Sophie", "message": "asdasdasd"}' sent
+2020-07-27 00:28:10,786 INFO client b'{"action": "message", "time": "Mon Jul 27 00:28:08 2020", "to": "all", "from_user": "Sophie", "message": "asd"}' sent
+2020-07-27 00:28:11,938 INFO client b'{"action": "message", "time": "Mon Jul 27 00:28:10 2020", "to": "all", "from_user": "Sophie", "message": "sad"}' sent
+2020-07-27 00:28:12,898 INFO client b'{"action": "message", "time": "Mon Jul 27 00:28:11 2020", "to": "all", "from_user": "Sophie", "message": "asd"}' sent
+2020-07-27 00:28:13,450 INFO client b'{"action": "message", "time": "Mon Jul 27 00:28:12 2020", "to": "all", "from_user": "Sophie", "message": "sad"}' sent
+2020-07-27 00:28:13,890 INFO client b'{"action": "message", "time": "Mon Jul 27 00:28:13 2020", "to": "all", "from_user": "Sophie", "message": "asd"}' sent
+2020-07-27 00:28:14,346 INFO client b'{"action": "message", "time": "Mon Jul 27 00:28:13 2020", "to": "all", "from_user": "Sophie", "message": "asd"}' sent
+2020-07-27 00:32:33,529 INFO logger logging started
+2020-07-27 00:32:33,532 INFO client client started
+2020-07-27 00:32:33,536 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:32:33 2020", "to": "all", "from_user": "Marcus", "message": ""}' sent
+2020-07-27 00:32:33,576 INFO logger logging started
+2020-07-27 00:32:33,580 INFO client client started
+2020-07-27 00:32:33,582 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:32:33 2020", "to": "all", "from_user": "Tatum", "message": ""}' sent
+2020-07-27 00:32:45,210 INFO client b'{"action": "message", "time": "Mon Jul 27 00:32:33 2020", "to": "all", "from_user": "Tatum", "message": "asdasd"}' sent
+2020-07-27 00:32:58,489 INFO client b'{"action": "message", "time": "Mon Jul 27 00:32:45 2020", "to": "all", "from_user": "Tatum", "message": "adasd"}' sent
+2020-07-27 00:33:02,402 INFO client b'{"action": "message", "time": "Mon Jul 27 00:32:33 2020", "to": "all", "from_user": "Marcus", "message": "asdasd"}' sent
+2020-07-27 00:33:06,930 INFO client b'{"action": "message", "time": "Mon Jul 27 00:33:02 2020", "to": "all", "from_user": "Marcus", "message": "asdasdasdasdasdasd"}' sent
+2020-07-27 00:33:11,474 INFO client b'{"action": "message", "time": "Mon Jul 27 00:32:58 2020", "to": "all", "from_user": "Tatum", "message": "asdasd"}' sent
+2020-07-27 00:34:54,937 INFO logger logging started
+2020-07-27 00:34:54,941 INFO client client started
+2020-07-27 00:34:54,946 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:34:54 2020", "to": "all", "from_user": "Bruce", "message": ""}' sent
+2020-07-27 00:34:55,032 INFO logger logging started
+2020-07-27 00:34:55,035 INFO client client started
+2020-07-27 00:34:55,039 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:34:55 2020", "to": "all", "from_user": "Gibson", "message": ""}' sent
+2020-07-27 00:39:58,614 INFO logger logging started
+2020-07-27 00:39:58,617 INFO client client started
+2020-07-27 00:39:58,619 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:39:58 2020", "to": "all", "from_user": "Meredith", "message": ""}' sent
+2020-07-27 00:40:32,530 INFO logger logging started
+2020-07-27 00:40:32,532 INFO client client started
+2020-07-27 00:40:32,534 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:40:32 2020", "to": "all", "from_user": "Catherine", "message": ""}' sent
+2020-07-27 00:41:08,450 INFO logger logging started
+2020-07-27 00:41:08,455 INFO client client started
+2020-07-27 00:41:28,313 INFO logger logging started
+2020-07-27 00:41:28,320 INFO client client started
+2020-07-27 00:41:28,322 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:41:28 2020", "to": "all", "from_user": "Moshe", "message": ""}' sent
+2020-07-27 00:43:09,744 INFO logger logging started
+2020-07-27 00:43:09,748 INFO client client started
+2020-07-27 00:43:09,749 INFO client b'{"action": "introduce", "time": "Mon Jul 27 00:43:09 2020", "to": "all", "from_user": "Camilo", "message": ""}' sent
+2020-07-27 00:43:13,080 INFO client b'{"action": "message", "time": "Mon Jul 27 00:43:09 2020", "to": "all", "from_user": "Camilo", "message": "\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432"}' sent
+2020-07-27 01:03:02,141 CRITICAL client Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
