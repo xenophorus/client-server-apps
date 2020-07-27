@@ -5,7 +5,6 @@ from socket import SOCK_STREAM, AF_INET, socket
 from lib.decorators import log_dec
 from lib.funx import *
 from lib.logger import *
-from lib.classes import Message
 
 
 def read_requests(r_clients, all_clients):
@@ -55,6 +54,7 @@ def mainloop(address):
             print("Получен запрос на соединение с %s" % str(addr))
             log.info(f'Получен запрос на соединение с {str(addr)}')
             clients.append(conn)
+            print(clients)
         finally:
             wait = 50
             r = []
@@ -82,4 +82,3 @@ def main(args):
 if __name__ == '__main__':
     log.info('server started')
     main(sys.argv)
-

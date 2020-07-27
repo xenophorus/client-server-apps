@@ -111,3 +111,140 @@
 2020-07-27 00:43:09,749 INFO server Получен запрос на соединение с ('127.0.0.1', 64591)
 2020-07-27 00:43:09,750 DEBUG server data = {"action": "introduce", "time": "Mon Jul 27 00:43:09 2020", "to": "all", "from_user": "Camilo", "message": ""}
 2020-07-27 00:43:13,796 DEBUG server data = {"action": "message", "time": "Mon Jul 27 00:43:09 2020", "to": "all", "from_user": "Camilo", "message": "\u0444\u044b\u0432\u0444\u044b\u0432\u0444\u044b\u0432\u0444\u044b\u0432"}
+2020-07-27 12:48:30,380 INFO logger logging started
+2020-07-27 12:48:30,383 INFO server server started
+2020-07-27 12:48:30,383 INFO server server started
+2020-07-27 12:48:32,205 INFO logger logging started
+2020-07-27 12:48:32,205 INFO monitor client started
+2020-07-27 12:48:32,206 INFO server Получен запрос на соединение с ('127.0.0.1', 61227)
+2020-07-27 12:48:34,856 INFO server Получен запрос на соединение с ('127.0.0.1', 61228)
+2020-07-27 12:48:34,856 DEBUG server data = {"action": "introduce", "time": "Mon Jul 27 12:48:34 2020", "to": "all", "from_user": "Avery", "message": ""}
+2020-07-27 12:48:37,857 DEBUG server data = {"action": "message", "time": "Mon Jul 27 12:48:34 2020", "to": "all", "from_user": "Avery", "message": "asdasdasdasd"}
+2020-07-27 17:07:24,020 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:07:24,419 INFO logger logging started
+2020-07-27 17:07:24,419 INFO server server started
+2020-07-27 17:07:24,419 INFO server server started
+2020-07-27 17:07:28,543 INFO logger logging started
+2020-07-27 17:07:28,543 INFO monitor client started
+2020-07-27 17:07:28,544 INFO server Получен запрос на соединение с ('127.0.0.1', 55673)
+2020-07-27 17:07:37,438 INFO server Получен запрос на соединение с ('127.0.0.1', 55675)
+2020-07-27 17:07:40,441 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:07:37 2020", "to": "all", "from_user": "Amalia", "message": "asdasdasd"}
+2020-07-27 17:07:47,446 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:07:39 2020", "to": "all", "from_user": "Amalia", "message": ""}
+2020-07-27 17:07:50,448 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:07:47 2020", "to": "all", "from_user": "Amalia", "message": "asdasdasdasd"}
+2020-07-27 17:07:53,451 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:07:50 2020", "to": "all", "from_user": "Amalia", "message": ""}
+2020-07-27 17:07:57,453 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:07:52 2020", "to": "all", "from_user": "Amalia", "message": "asdasd"}
+2020-07-27 17:08:01,456 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:07:56 2020", "to": "all", "from_user": "Amalia", "message": "asd"}
+2020-07-27 17:14:05,174 INFO logger logging started
+2020-07-27 17:14:05,176 INFO server server started
+2020-07-27 17:14:05,176 INFO server server started
+2020-07-27 17:14:05,503 INFO logger logging started
+2020-07-27 17:14:05,504 INFO monitor client started
+2020-07-27 17:14:05,505 INFO server Получен запрос на соединение с ('127.0.0.1', 55728)
+2020-07-27 17:14:05,508 INFO logger logging started
+2020-07-27 17:14:05,509 INFO monitor client started
+2020-07-27 17:14:05,509 INFO server Получен запрос на соединение с ('127.0.0.1', 55729)
+2020-07-27 17:14:13,120 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:14:20,579 INFO logger logging started
+2020-07-27 17:14:20,579 INFO server server started
+2020-07-27 17:14:20,579 INFO server server started
+2020-07-27 17:21:31,529 INFO server Получен запрос на соединение с ('127.0.0.1', 55836)
+2020-07-27 17:21:36,002 INFO logger logging started
+2020-07-27 17:21:36,002 INFO monitor client started
+2020-07-27 17:21:36,003 INFO server Получен запрос на соединение с ('127.0.0.1', 55837)
+2020-07-27 17:21:43,007 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:21:31 2020", "to": "all", "from_user": "user", "message": "asdasdasdasd"}
+2020-07-27 17:21:46,008 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:21:42 2020", "to": "all", "from_user": "user", "message": "asdasdasd"}
+2020-07-27 17:21:48,009 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:21:45 2020", "to": "all", "from_user": "user", "message": "asdasd"}
+2020-07-27 17:21:50,010 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:21:47 2020", "to": "all", "from_user": "user", "message": "asd"}
+2020-07-27 17:38:07,559 ERROR server Клиент 692 ('127.0.0.1', 55836) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:38:07,593 INFO server Получен запрос на соединение с ('127.0.0.1', 55989)
+2020-07-27 17:39:21,201 INFO server Получен запрос на соединение с ('127.0.0.1', 55997)
+2020-07-27 17:39:21,201 ERROR server Клиент 700 ('127.0.0.1', 55989) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:39:26,203 ERROR server Клиент 704 ('127.0.0.1', 55997) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:39:42,356 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:39:42,603 INFO logger logging started
+2020-07-27 17:39:42,603 INFO server server started
+2020-07-27 17:39:42,603 INFO server server started
+2020-07-27 17:39:46,232 INFO server Получен запрос на соединение с ('127.0.0.1', 56004)
+2020-07-27 17:39:49,234 ERROR server Клиент 436 ('127.0.0.1', 56004) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:42:24,565 INFO server Получен запрос на соединение с ('127.0.0.1', 56024)
+2020-07-27 17:42:35,570 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:42:28 2020", "to": "user", "from_user": "user", "message": "adasdasdasdasd"}
+2020-07-27 17:43:00,813 INFO logger logging started
+2020-07-27 17:43:00,813 INFO monitor client started
+2020-07-27 17:43:00,814 INFO server Получен запрос на соединение с ('127.0.0.1', 56027)
+2020-07-27 17:51:42,938 INFO logger logging started
+2020-07-27 17:51:42,940 INFO server server started
+2020-07-27 17:51:42,940 INFO server server started
+2020-07-27 17:51:42,961 INFO server Получен запрос на соединение с ('127.0.0.1', 56082)
+2020-07-27 17:51:42,980 INFO server Получен запрос на соединение с ('127.0.0.1', 56083)
+2020-07-27 17:51:42,988 INFO server Получен запрос на соединение с ('127.0.0.1', 56084)
+2020-07-27 17:51:43,008 INFO logger logging started
+2020-07-27 17:51:43,008 INFO monitor client started
+2020-07-27 17:51:43,010 INFO server Получен запрос на соединение с ('127.0.0.1', 56085)
+2020-07-27 17:51:43,109 INFO logger logging started
+2020-07-27 17:51:43,109 INFO monitor client started
+2020-07-27 17:51:43,110 INFO server Получен запрос на соединение с ('127.0.0.1', 56086)
+2020-07-27 17:52:12,129 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:52:04 2020", "to": "user0", "from_user": "user", "message": "asdasdasdasd"}
+2020-07-27 17:52:29,138 DEBUG server data = {"action": "message", "time": "Mon Jul 27 17:52:21 2020", "to": "user", "from_user": "user", "message": "asdasdasdasd"}
+2020-07-27 17:52:44,145 ERROR server Клиент 708 ('127.0.0.1', 56082) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:52:44,145 ERROR server Клиент 436 ('127.0.0.1', 56083) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:52:44,145 ERROR server Клиент 704 ('127.0.0.1', 56084) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:52:44,145 ERROR server Клиент 712 ('127.0.0.1', 56085) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:52:44,145 ERROR server Клиент 716 ('127.0.0.1', 56086) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:54:06,838 INFO logger logging started
+2020-07-27 17:54:06,839 INFO server server started
+2020-07-27 17:54:06,839 INFO server server started
+2020-07-27 17:54:07,219 INFO server Получен запрос на соединение с ('127.0.0.1', 56102)
+2020-07-27 17:54:07,250 INFO server Получен запрос на соединение с ('127.0.0.1', 56103)
+2020-07-27 17:54:07,298 INFO server Получен запрос на соединение с ('127.0.0.1', 56104)
+2020-07-27 17:54:07,362 INFO logger logging started
+2020-07-27 17:54:07,363 INFO monitor client started
+2020-07-27 17:54:07,365 INFO server Получен запрос на соединение с ('127.0.0.1', 56105)
+2020-07-27 17:54:07,407 INFO logger logging started
+2020-07-27 17:54:07,408 INFO monitor client started
+2020-07-27 17:54:07,411 INFO server Получен запрос на соединение с ('127.0.0.1', 56106)
+2020-07-27 17:54:17,418 ERROR server Клиент 708 ('127.0.0.1', 56102) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:54:17,419 ERROR server Клиент 536 ('127.0.0.1', 56103) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:54:17,419 ERROR server Клиент 544 ('127.0.0.1', 56104) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:54:17,419 ERROR server Клиент 716 ('127.0.0.1', 56105) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:54:17,419 ERROR server Клиент 436 ('127.0.0.1', 56106) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:55:40,737 INFO server Получен запрос на соединение с ('127.0.0.1', 56115)
+2020-07-27 17:55:40,745 INFO logger logging started
+2020-07-27 17:55:40,745 INFO server server started
+2020-07-27 17:55:40,746 INFO server server started
+2020-07-27 17:55:40,819 INFO logger logging started
+2020-07-27 17:55:40,820 INFO monitor client started
+2020-07-27 17:55:40,822 INFO server Получен запрос на соединение с ('127.0.0.1', 56116)
+2020-07-27 17:55:40,831 INFO server Получен запрос на соединение с ('127.0.0.1', 56117)
+2020-07-27 17:55:40,838 INFO server Получен запрос на соединение с ('127.0.0.1', 56118)
+2020-07-27 17:55:40,884 INFO logger logging started
+2020-07-27 17:55:40,884 INFO monitor client started
+2020-07-27 17:55:40,886 INFO server Получен запрос на соединение с ('127.0.0.1', 56120)
+2020-07-27 17:55:47,888 ERROR server Клиент 556 ('127.0.0.1', 56115) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:55:48,889 ERROR server Клиент 536 ('127.0.0.1', 56117) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:55:48,889 ERROR server Клиент 544 ('127.0.0.1', 56118) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:55:49,889 ERROR server Клиент 708 ('127.0.0.1', 56116) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:55:49,889 ERROR server Клиент 716 ('127.0.0.1', 56120) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:56:01,598 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение

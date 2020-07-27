@@ -6,7 +6,7 @@ class Message:
     def __init__(self):
         self.action = 'message'
         self.from_user = 'user'
-        self.to_user = 'all'
+        self.to_user = ''
         self.time_date = time.asctime()
         self.message = ''
 
@@ -22,14 +22,17 @@ class Message:
         if command == 'enc':
             return json.dumps(msg.to_dict()).encode('utf-8')
 
-    def _set_msg(self):
-        self.message = input('Enter your message:\n')
+    def set_to(self):
+        self.to_user = input('Введите имя: \n')
 
-    def create(self, action, from_user, to_user):
+    def _set_msg(self):
+        self.message = input('Введите сообщение: \n')
+
+    def create(self, action, from_user):
         self.action = action
         self.time_date = time.asctime()
         self.from_user = from_user
-        self.to_user = to_user
+        self.set_to()
         self._set_msg()
         return dict(action=self.action, time=self.time_date, to=self.to_user,
                     from_user=self.from_user, message=self.message)

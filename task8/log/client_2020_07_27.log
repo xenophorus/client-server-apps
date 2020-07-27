@@ -66,3 +66,64 @@
 2020-07-27 00:43:13,080 INFO client b'{"action": "message", "time": "Mon Jul 27 00:43:09 2020", "to": "all", "from_user": "Camilo", "message": "\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432"}' sent
 2020-07-27 01:03:02,141 CRITICAL client Something wrong. No answer from server.
 		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 12:48:34,852 INFO logger logging started
+2020-07-27 12:48:34,855 INFO client client started
+2020-07-27 12:48:34,856 INFO client b'{"action": "introduce", "time": "Mon Jul 27 12:48:34 2020", "to": "all", "from_user": "Avery", "message": ""}' sent
+2020-07-27 12:48:37,388 INFO client b'{"action": "message", "time": "Mon Jul 27 12:48:34 2020", "to": "all", "from_user": "Avery", "message": "asdasdasdasd"}' sent
+2020-07-27 17:07:24,020 CRITICAL client Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-27 17:07:37,436 INFO logger logging started
+2020-07-27 17:07:37,437 INFO client client started
+2020-07-27 17:07:39,892 INFO client b'{"action": "message", "time": "Mon Jul 27 17:07:37 2020", "to": "all", "from_user": "Amalia", "message": "asdasdasd"}' sent
+2020-07-27 17:07:47,124 INFO client b'{"action": "message", "time": "Mon Jul 27 17:07:39 2020", "to": "all", "from_user": "Amalia", "message": ""}' sent
+2020-07-27 17:07:50,109 INFO client b'{"action": "message", "time": "Mon Jul 27 17:07:47 2020", "to": "all", "from_user": "Amalia", "message": "asdasdasdasd"}' sent
+2020-07-27 17:07:52,749 INFO client b'{"action": "message", "time": "Mon Jul 27 17:07:50 2020", "to": "all", "from_user": "Amalia", "message": ""}' sent
+2020-07-27 17:07:56,574 INFO client b'{"action": "message", "time": "Mon Jul 27 17:07:52 2020", "to": "all", "from_user": "Amalia", "message": "asdasd"}' sent
+2020-07-27 17:08:00,838 INFO client b'{"action": "message", "time": "Mon Jul 27 17:07:56 2020", "to": "all", "from_user": "Amalia", "message": "asd"}' sent
+2020-07-27 17:14:05,480 INFO logger logging started
+2020-07-27 17:14:05,500 INFO logger logging started
+2020-07-27 17:14:05,505 INFO logger logging started
+2020-07-27 17:14:26,820 INFO logger logging started
+2020-07-27 17:21:05,754 INFO logger logging started
+2020-07-27 17:21:05,755 INFO client client started
+2020-07-27 17:21:31,524 INFO logger logging started
+2020-07-27 17:21:31,528 INFO client client started
+2020-07-27 17:21:42,282 INFO client b'{"action": "message", "time": "Mon Jul 27 17:21:31 2020", "to": "all", "from_user": "user", "message": "asdasdasdasd"}' sent
+2020-07-27 17:21:45,234 INFO client b'{"action": "message", "time": "Mon Jul 27 17:21:42 2020", "to": "all", "from_user": "user", "message": "asdasdasd"}' sent
+2020-07-27 17:21:47,786 INFO client b'{"action": "message", "time": "Mon Jul 27 17:21:45 2020", "to": "all", "from_user": "user", "message": "asdasd"}' sent
+2020-07-27 17:21:49,450 INFO client b'{"action": "message", "time": "Mon Jul 27 17:21:47 2020", "to": "all", "from_user": "user", "message": "asd"}' sent
+2020-07-27 17:38:07,590 INFO logger logging started
+2020-07-27 17:38:07,592 INFO client client started
+2020-07-27 17:39:21,199 INFO logger logging started
+2020-07-27 17:39:21,200 INFO client client started
+2020-07-27 17:39:26,067 CRITICAL client Something wrong. No answer from server.
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-27 17:39:46,230 INFO logger logging started
+2020-07-27 17:39:46,230 INFO client client started
+2020-07-27 17:39:49,147 CRITICAL client Something wrong. No answer from server.
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-27 17:42:24,563 INFO logger logging started
+2020-07-27 17:42:24,564 INFO client client started
+2020-07-27 17:42:35,468 INFO client b'{"action": "message", "time": "Mon Jul 27 17:42:28 2020", "to": "user", "from_user": "user", "message": "adasdasdasdasd"}' sent
+2020-07-27 17:51:42,956 INFO logger logging started
+2020-07-27 17:51:42,957 INFO client client started
+2020-07-27 17:51:42,977 INFO logger logging started
+2020-07-27 17:51:42,978 INFO client client started
+2020-07-27 17:51:42,985 INFO logger logging started
+2020-07-27 17:51:42,986 INFO client client started
+2020-07-27 17:52:11,701 INFO client b'{"action": "message", "time": "Mon Jul 27 17:52:04 2020", "to": "user0", "from_user": "user", "message": "asdasdasdasd"}' sent
+2020-07-27 17:52:28,263 INFO client b'{"action": "message", "time": "Mon Jul 27 17:52:21 2020", "to": "user", "from_user": "user", "message": "asdasdasdasd"}' sent
+2020-07-27 17:54:07,199 INFO logger logging started
+2020-07-27 17:54:07,201 INFO client client started
+2020-07-27 17:54:07,246 INFO logger logging started
+2020-07-27 17:54:07,247 INFO client client started
+2020-07-27 17:54:07,293 INFO logger logging started
+2020-07-27 17:54:07,294 INFO client client started
+2020-07-27 17:55:40,723 INFO logger logging started
+2020-07-27 17:55:40,724 INFO client client started
+2020-07-27 17:55:40,828 INFO logger logging started
+2020-07-27 17:55:40,829 INFO client client started
+2020-07-27 17:55:40,837 INFO logger logging started
+2020-07-27 17:55:40,837 INFO client client started
+2020-07-27 17:56:01,598 CRITICAL client Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение

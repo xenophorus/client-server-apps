@@ -7,15 +7,12 @@ def show_help():
 
 
 def parse_args(args):
-    host, port, name = '127.0.0.1', 9090, 'user'
-
+    host, port = '127.0.0.1', '9090'
     for i in range(len(args)):
         if args[i] == '-p':
             port = args[i + 1]
         elif args[i] == '-h':
             host = args[i + 1]
-        elif args[i] == '-n':
-            name = args[i + 1]
         elif args[i] == '-?':
             show_help()
             break
@@ -23,4 +20,4 @@ def parse_args(args):
             if i % 2 == 0:
                 print(f'{args[i]} is incorrect argument. Skipped')
     addr = (host, port)
-    return [addr, name]
+    return addr
