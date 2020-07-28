@@ -1,0 +1,221 @@
+2020-07-28 11:18:38,925 INFO logger logging started
+2020-07-28 11:18:38,927 INFO server server started
+2020-07-28 11:18:38,927 INFO server server started
+2020-07-28 11:18:41,960 INFO logger logging started
+2020-07-28 11:18:41,960 INFO logger logging started
+2020-07-28 11:18:41,960 INFO monitor client started
+2020-07-28 11:18:41,960 INFO monitor client started
+2020-07-28 11:18:41,962 INFO server Получен запрос на соединение с ('127.0.0.1', 50639)
+2020-07-28 11:18:41,962 INFO server Получен запрос на соединение с ('127.0.0.1', 50640)
+2020-07-28 11:19:22,196 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:19:22,197 CRITICAL monitor Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:21:02,181 INFO logger logging started
+2020-07-28 11:21:02,182 INFO server server started
+2020-07-28 11:21:02,182 INFO server server started
+2020-07-28 11:21:02,230 INFO logger logging started
+2020-07-28 11:21:02,230 INFO monitor client started
+2020-07-28 11:21:02,231 INFO server Получен запрос на соединение с ('127.0.0.1', 50811)
+2020-07-28 11:21:02,237 INFO logger logging started
+2020-07-28 11:21:02,237 INFO monitor client started
+2020-07-28 11:21:02,238 INFO server Получен запрос на соединение с ('127.0.0.1', 50812)
+2020-07-28 11:21:20,973 INFO logger logging started
+2020-07-28 11:21:20,973 INFO server server started
+2020-07-28 11:21:20,973 INFO server server started
+2020-07-28 11:29:48,935 INFO logger logging started
+2020-07-28 11:29:48,935 INFO server server started
+2020-07-28 11:29:48,935 INFO server server started
+2020-07-28 11:29:48,998 INFO logger logging started
+2020-07-28 11:29:48,998 INFO monitor client started
+2020-07-28 11:29:48,998 INFO logger logging started
+2020-07-28 11:29:48,999 INFO monitor client started
+2020-07-28 11:29:48,999 INFO server Получен запрос на соединение с ('127.0.0.1', 51003)
+2020-07-28 11:29:49,000 INFO server Получен запрос на соединение с ('127.0.0.1', 51004)
+2020-07-28 11:29:59,664 INFO server Получен запрос на соединение с ('127.0.0.1', 51005)
+2020-07-28 11:30:14,671 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:30:04 2020", "to": "user0", "from_user": "user0", "message": "asdasdasdasdasdasdasd"}
+2020-07-28 11:30:39,337 INFO logger logging started
+2020-07-28 11:30:39,337 INFO server server started
+2020-07-28 11:30:39,337 INFO server server started
+2020-07-28 11:30:39,395 INFO logger logging started
+2020-07-28 11:30:39,396 INFO monitor client started
+2020-07-28 11:30:39,396 INFO monitor client started
+2020-07-28 11:30:39,397 INFO server Получен запрос на соединение с ('127.0.0.1', 51008)
+2020-07-28 11:30:39,397 INFO server Получен запрос на соединение с ('127.0.0.1', 51009)
+2020-07-28 11:31:44,060 INFO logger logging started
+2020-07-28 11:31:44,060 INFO server server started
+2020-07-28 11:31:44,060 INFO server server started
+2020-07-28 11:31:53,075 INFO logger logging started
+2020-07-28 11:31:53,075 INFO server server started
+2020-07-28 11:31:53,075 INFO server server started
+2020-07-28 11:31:53,125 INFO logger logging started
+2020-07-28 11:31:53,125 INFO monitor client started
+2020-07-28 11:31:53,126 INFO logger logging started
+2020-07-28 11:31:53,126 INFO server Получен запрос на соединение с ('127.0.0.1', 51019)
+2020-07-28 11:31:53,127 INFO monitor client started
+2020-07-28 11:31:53,127 INFO server Получен запрос на соединение с ('127.0.0.1', 51020)
+2020-07-28 11:31:59,803 INFO logger logging started
+2020-07-28 11:31:59,803 INFO server server started
+2020-07-28 11:31:59,803 INFO server server started
+2020-07-28 11:31:59,855 INFO logger logging started
+2020-07-28 11:31:59,856 INFO monitor client started
+2020-07-28 11:31:59,856 INFO server Получен запрос на соединение с ('127.0.0.1', 51022)
+2020-07-28 11:31:59,858 INFO logger logging started
+2020-07-28 11:31:59,859 INFO monitor client started
+2020-07-28 11:31:59,859 INFO server Получен запрос на соединение с ('127.0.0.1', 51023)
+2020-07-28 11:32:02,948 INFO logger logging started
+2020-07-28 11:32:02,948 INFO server server started
+2020-07-28 11:32:02,948 INFO server server started
+2020-07-28 11:32:02,998 INFO logger logging started
+2020-07-28 11:32:02,999 INFO monitor client started
+2020-07-28 11:32:03,000 INFO server Получен запрос на соединение с ('127.0.0.1', 51026)
+2020-07-28 11:32:03,021 INFO logger logging started
+2020-07-28 11:32:03,022 INFO monitor client started
+2020-07-28 11:32:03,022 INFO server Получен запрос на соединение с ('127.0.0.1', 51027)
+2020-07-28 11:32:07,025 ERROR server Клиент 700 ('127.0.0.1', 51019) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:32:07,025 ERROR server Клиент 704 ('127.0.0.1', 51020) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:32:07,025 ERROR server Клиент 708 ('127.0.0.1', 51022) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:32:07,025 ERROR server Клиент 712 ('127.0.0.1', 51023) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:32:07,025 ERROR server Клиент 716 ('127.0.0.1', 51026) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:32:07,025 ERROR server Клиент 436 ('127.0.0.1', 51027) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:32:44,764 INFO logger logging started
+2020-07-28 11:32:44,764 INFO server server started
+2020-07-28 11:32:44,764 INFO server server started
+2020-07-28 11:32:44,802 INFO server Получен запрос на соединение с ('127.0.0.1', 51033)
+2020-07-28 11:32:44,807 INFO server Получен запрос на соединение с ('127.0.0.1', 51034)
+2020-07-28 11:32:44,819 INFO server Получен запрос на соединение с ('127.0.0.1', 51035)
+2020-07-28 11:32:44,826 INFO logger logging started
+2020-07-28 11:32:44,827 INFO monitor client started
+2020-07-28 11:32:44,827 INFO logger logging started
+2020-07-28 11:32:44,827 INFO server Получен запрос на соединение с ('127.0.0.1', 51036)
+2020-07-28 11:32:44,828 INFO monitor client started
+2020-07-28 11:32:44,828 INFO server Получен запрос на соединение с ('127.0.0.1', 51037)
+2020-07-28 11:33:02,837 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:32:54 2020", "to": "user0", "from_user": "user2", "message": "asdasdasdasd"}
+2020-07-28 11:33:24,849 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:33:18 2020", "to": "user1", "from_user": "user2", "message": "sdfsdfsdfsdf"}
+2020-07-28 11:34:35,885 ERROR server Клиент 720 ('127.0.0.1', 51033) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:34:35,885 ERROR server Клиент 436 ('127.0.0.1', 51034) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:34:35,885 ERROR server Клиент 724 ('127.0.0.1', 51035) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:34:35,885 ERROR server Клиент 728 ('127.0.0.1', 51036) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:34:35,885 ERROR server Клиент 700 ('127.0.0.1', 51037) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:34:37,386 INFO logger logging started
+2020-07-28 11:34:37,386 INFO server server started
+2020-07-28 11:34:37,386 INFO server server started
+2020-07-28 11:34:37,679 INFO server Получен запрос на соединение с ('127.0.0.1', 51051)
+2020-07-28 11:34:37,700 INFO server Получен запрос на соединение с ('127.0.0.1', 51052)
+2020-07-28 11:34:37,716 INFO server Получен запрос на соединение с ('127.0.0.1', 51053)
+2020-07-28 11:34:37,722 INFO logger logging started
+2020-07-28 11:34:37,722 INFO monitor client started
+2020-07-28 11:34:37,723 INFO server Получен запрос на соединение с ('127.0.0.1', 51054)
+2020-07-28 11:34:37,726 INFO logger logging started
+2020-07-28 11:34:37,726 INFO monitor client started
+2020-07-28 11:34:37,726 INFO server Получен запрос на соединение с ('127.0.0.1', 51055)
+2020-07-28 11:34:57,736 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:34:48 2020", "to": "user0", "from_user": "user1", "message": "asdasdasdasdasdasdasd"}
+2020-07-28 11:35:11,745 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:35:03 2020", "to": "user2", "from_user": "user1", "message": "asdasdasdasdasdasdasd"}
+2020-07-28 11:35:32,758 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:35:25 2020", "to": "user1", "from_user": "user2", "message": "sdfsdfsdfsdfsdf"}
+2020-07-28 11:35:36,760 ERROR server Клиент 740 ('127.0.0.1', 51053) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:35:37,760 ERROR server Клиент 736 ('127.0.0.1', 51052) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:35:37,760 ERROR server Клиент 704 ('127.0.0.1', 51054) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:35:38,761 ERROR server Клиент 708 ('127.0.0.1', 51055) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:35:39,761 ERROR server Клиент 732 ('127.0.0.1', 51051) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:53:33,592 INFO logger logging started
+2020-07-28 11:53:33,593 INFO server server started
+2020-07-28 11:53:33,782 INFO server Получен запрос на соединение с ('127.0.0.1', 51452)
+2020-07-28 11:53:33,825 INFO server Получен запрос на соединение с ('127.0.0.1', 51453)
+2020-07-28 11:53:33,887 INFO server Получен запрос на соединение с ('127.0.0.1', 51454)
+2020-07-28 11:53:33,922 INFO logger logging started
+2020-07-28 11:53:33,922 INFO monitor client started
+2020-07-28 11:53:33,923 INFO server Получен запрос на соединение с ('127.0.0.1', 51455)
+2020-07-28 11:53:33,952 INFO logger logging started
+2020-07-28 11:53:33,952 INFO monitor client started
+2020-07-28 11:53:33,953 INFO server Получен запрос на соединение с ('127.0.0.1', 51456)
+2020-07-28 11:53:53,966 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:53:43 2020", "to": "user1", "from_user": "user1", "message": "asdasdasdasdasd"}
+2020-07-28 11:54:30,985 ERROR server Клиент 744 ('127.0.0.1', 51452) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:54:30,985 ERROR server Клиент 748 ('127.0.0.1', 51453) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:54:30,985 ERROR server Клиент 720 ('127.0.0.1', 51454) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:54:30,985 ERROR server Клиент 700 ('127.0.0.1', 51455) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:54:30,985 ERROR server Клиент 732 ('127.0.0.1', 51456) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:54:38,419 INFO logger logging started
+2020-07-28 11:54:38,419 INFO server server started
+2020-07-28 11:54:38,621 INFO server Получен запрос на соединение с ('127.0.0.1', 51468)
+2020-07-28 11:54:38,665 INFO server Получен запрос на соединение с ('127.0.0.1', 51469)
+2020-07-28 11:54:38,704 INFO server Получен запрос на соединение с ('127.0.0.1', 51470)
+2020-07-28 11:54:38,744 INFO logger logging started
+2020-07-28 11:54:38,744 INFO monitor client started
+2020-07-28 11:54:38,745 INFO server Получен запрос на соединение с ('127.0.0.1', 51471)
+2020-07-28 11:54:38,778 INFO logger logging started
+2020-07-28 11:54:38,778 INFO monitor client started
+2020-07-28 11:54:38,779 INFO server Получен запрос на соединение с ('127.0.0.1', 51472)
+2020-07-28 11:54:57,786 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:54:50 2020", "to": "user0", "from_user": "user1", "message": "asdasdasdasd"}
+2020-07-28 11:55:15,798 DEBUG server data = {"action": "message", "time": "Tue Jul 28 11:55:04 2020", "to": "user2", "from_user": "user1", "message": "sdfffffffffffffffffffffffff"}
+2020-07-28 11:55:28,805 ERROR server Клиент 752 ('127.0.0.1', 51470) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:55:31,807 ERROR server Клиент 436 ('127.0.0.1', 51468) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:55:31,807 ERROR server Клиент 708 ('127.0.0.1', 51469) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:55:31,807 ERROR server Клиент 724 ('127.0.0.1', 51471) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:55:31,807 ERROR server Клиент 692 ('127.0.0.1', 51472) отключился
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 13:39:01,619 INFO logger logging started
+2020-07-28 13:39:01,777 INFO logger logging started
+2020-07-28 13:39:01,777 INFO monitor client started
+2020-07-28 13:39:01,815 INFO logger logging started
+2020-07-28 13:39:01,815 INFO monitor client started
+2020-07-28 13:39:39,608 INFO logger logging started
+2020-07-28 13:40:23,379 INFO logger logging started
+2020-07-28 13:40:41,010 INFO logger logging started
+2020-07-28 13:40:41,053 INFO server Получен запрос на соединение с ('127.0.0.1', 50362)
+2020-07-28 13:40:41,091 INFO server Получен запрос на соединение с ('127.0.0.1', 50364)
+2020-07-28 13:40:41,133 INFO server Получен запрос на соединение с ('127.0.0.1', 50365)
+2020-07-28 13:40:41,168 INFO logger logging started
+2020-07-28 13:40:41,168 INFO monitor client started
+2020-07-28 13:40:41,169 INFO server Получен запрос на соединение с ('127.0.0.1', 50366)
+2020-07-28 13:40:41,199 INFO logger logging started
+2020-07-28 13:40:41,199 INFO monitor client started
+2020-07-28 13:40:41,200 INFO server Получен запрос на соединение с ('127.0.0.1', 50367)
+2020-07-28 13:41:06,215 DEBUG server data = {"action": "message", "time": "Tue Jul 28 13:40:55 2020", "to": "user0", "from_user": "user2", "message": "123123aasdasdasd\u0444\u0432\u0444\u044b\u0432\u0444\u044b\u0432\u0444\u044b"}
+2020-07-28 13:43:24,128 INFO logger logging started
+2020-07-28 13:43:24,181 INFO server Получен запрос на соединение с ('127.0.0.1', 50377)
+2020-07-28 13:43:24,203 INFO server Получен запрос на соединение с ('127.0.0.1', 50378)
+2020-07-28 13:43:24,246 INFO server Получен запрос на соединение с ('127.0.0.1', 50379)
+2020-07-28 13:43:24,270 INFO logger logging started
+2020-07-28 13:43:24,271 INFO monitor client started
+2020-07-28 13:43:24,272 INFO server Получен запрос на соединение с ('127.0.0.1', 50380)
+2020-07-28 13:43:24,309 INFO logger logging started
+2020-07-28 13:43:24,309 INFO monitor client started
+2020-07-28 13:43:24,310 INFO server Получен запрос на соединение с ('127.0.0.1', 50381)
+2020-07-28 13:43:36,318 DEBUG server data = {"action": "message", "time": "Tue Jul 28 13:43:30 2020", "to": "user1", "from_user": "user2", "message": "asdasdasd"}
+2020-07-28 13:44:27,903 INFO logger logging started
+2020-07-28 13:44:27,951 INFO server Получен запрос на соединение с ('127.0.0.1', 50385)
+2020-07-28 13:44:27,978 INFO server Получен запрос на соединение с ('127.0.0.1', 50386)
+2020-07-28 13:44:28,016 INFO server Получен запрос на соединение с ('127.0.0.1', 50387)
+2020-07-28 13:44:28,045 INFO logger logging started
+2020-07-28 13:44:28,045 INFO monitor client started
+2020-07-28 13:44:28,046 INFO server Получен запрос на соединение с ('127.0.0.1', 50388)
+2020-07-28 13:44:28,085 INFO logger logging started
+2020-07-28 13:44:28,085 INFO monitor client started
+2020-07-28 13:44:28,086 INFO server Получен запрос на соединение с ('127.0.0.1', 50389)
+2020-07-28 13:44:41,093 DEBUG server data = {"action": "message", "time": "Tue Jul 28 13:44:35 2020", "to": "user1", "from_user": "user2", "message": "asdasdasd"}
+2020-07-28 13:44:48,100 DEBUG server data = {"action": "message", "time": "Tue Jul 28 13:44:42 2020", "to": "user1", "from_user": "user2", "message": "\u0444\u044b\u0432\u0444\u044b\u0432\u0444\u044b\u0432\u0444\u044b\u0432"}

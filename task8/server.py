@@ -1,3 +1,4 @@
+import argparse
 import select
 
 from socket import SOCK_STREAM, AF_INET, socket
@@ -72,13 +73,13 @@ def mainloop(address):
 
 @log_dec
 def main(args):
-    log.info('server started')
-    if len(args) > 1:
-        mainloop(parse_args(args[1:]))
-    else:
-        mainloop(('127.0.0.1', 9090))
+    parser = argparse.ArgumentParser(description='Server app')
+    parser.add_argument('-p', action='store', dest='prt', type=int)
+    parser.add_argument('-d', action='store', dest='ip')
+    args = parser.parse_args()
+    print('server started')
+    mainloop((args.ip, args.prt),)
 
 
 if __name__ == '__main__':
-    log.info('server started')
     main(sys.argv)

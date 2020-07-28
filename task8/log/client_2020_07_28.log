@@ -1,0 +1,123 @@
+2020-07-28 11:18:41,913 INFO logger logging started
+2020-07-28 11:18:41,938 INFO logger logging started
+2020-07-28 11:18:41,953 INFO logger logging started
+2020-07-28 11:19:55,189 INFO logger logging started
+2020-07-28 11:20:18,652 INFO logger logging started
+2020-07-28 11:20:18,655 INFO client client started
+2020-07-28 11:21:02,201 INFO logger logging started
+2020-07-28 11:21:02,202 INFO client client started
+2020-07-28 11:21:02,228 INFO logger logging started
+2020-07-28 11:21:02,229 INFO client client started
+2020-07-28 11:21:02,233 INFO logger logging started
+2020-07-28 11:21:02,234 INFO client client started
+2020-07-28 11:21:28,220 INFO logger logging started
+2020-07-28 11:21:28,223 INFO client client started
+2020-07-28 11:23:01,705 INFO logger logging started
+2020-07-28 11:23:01,708 INFO client client started
+2020-07-28 11:23:03,681 INFO logger logging started
+2020-07-28 11:23:03,684 INFO client client started
+2020-07-28 11:27:01,898 INFO logger logging started
+2020-07-28 11:27:01,901 INFO client client started
+2020-07-28 11:27:20,067 INFO logger logging started
+2020-07-28 11:27:20,070 INFO client client started
+2020-07-28 11:27:58,132 INFO logger logging started
+2020-07-28 11:27:58,133 INFO client client started
+2020-07-28 11:28:40,242 INFO logger logging started
+2020-07-28 11:28:40,243 INFO client client started
+2020-07-28 11:28:40,280 DEBUG decorators Отработала фуккция main с параметрами ((['C:/Users/Shesterin.AN/Documents/dev/client-server-apps/task8/client.py'],), {})
+		вызванная <module>
+2020-07-28 11:28:47,298 INFO logger logging started
+2020-07-28 11:28:59,747 INFO logger logging started
+2020-07-28 11:29:09,610 INFO logger logging started
+2020-07-28 11:29:09,614 INFO client client started
+2020-07-28 11:29:09,627 DEBUG decorators Отработала фуккция main с параметрами ((['client.py', '-d', '127.0.0.1', '-p', '9090', '-n', 'user0'],), {})
+		вызванная <module>
+2020-07-28 11:29:19,897 INFO logger logging started
+2020-07-28 11:29:19,901 INFO client client started
+2020-07-28 11:29:19,913 DEBUG decorators Отработала фуккция main с параметрами ((['client.py', '-d', '127.0.0.1', '-p', '9090', '-n', 'user0'],), {})
+		вызванная <module>
+2020-07-28 11:29:30,395 INFO logger logging started
+2020-07-28 11:29:30,396 INFO client client started
+2020-07-28 11:29:48,987 INFO logger logging started
+2020-07-28 11:29:48,988 INFO logger logging started
+2020-07-28 11:29:49,001 INFO logger logging started
+2020-07-28 11:29:59,659 INFO logger logging started
+2020-07-28 11:29:59,663 INFO client client started
+2020-07-28 11:30:14,405 INFO client b'{"action": "message", "time": "Tue Jul 28 11:30:04 2020", "to": "user0", "from_user": "user0", "message": "asdasdasdasdasdasdasd"}' sent
+2020-07-28 11:30:33,304 CRITICAL client Something wrong. No answer from server.
+		[WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2020-07-28 11:30:39,382 INFO logger logging started
+2020-07-28 11:30:39,383 INFO logger logging started
+2020-07-28 11:30:39,383 INFO logger logging started
+2020-07-28 11:31:53,103 INFO logger logging started
+2020-07-28 11:31:53,115 INFO logger logging started
+2020-07-28 11:31:53,122 INFO logger logging started
+2020-07-28 11:31:59,834 INFO logger logging started
+2020-07-28 11:31:59,846 INFO logger logging started
+2020-07-28 11:31:59,854 INFO logger logging started
+2020-07-28 11:32:02,975 INFO logger logging started
+2020-07-28 11:32:02,989 INFO logger logging started
+2020-07-28 11:32:03,003 INFO logger logging started
+2020-07-28 11:32:44,800 INFO logger logging started
+2020-07-28 11:32:44,801 INFO client client started
+2020-07-28 11:32:44,805 INFO logger logging started
+2020-07-28 11:32:44,806 INFO client client started
+2020-07-28 11:32:44,817 INFO logger logging started
+2020-07-28 11:32:44,818 INFO client client started
+2020-07-28 11:33:02,821 INFO client b'{"action": "message", "time": "Tue Jul 28 11:32:54 2020", "to": "user0", "from_user": "user2", "message": "asdasdasdasd"}' sent
+2020-07-28 11:33:24,053 INFO client b'{"action": "message", "time": "Tue Jul 28 11:33:18 2020", "to": "user1", "from_user": "user2", "message": "sdfsdfsdfsdf"}' sent
+2020-07-28 11:34:37,676 INFO logger logging started
+2020-07-28 11:34:37,677 INFO client client started
+2020-07-28 11:34:37,698 INFO logger logging started
+2020-07-28 11:34:37,699 INFO client client started
+2020-07-28 11:34:37,713 INFO logger logging started
+2020-07-28 11:34:37,714 INFO client client started
+2020-07-28 11:34:57,637 INFO client b'{"action": "message", "time": "Tue Jul 28 11:34:48 2020", "to": "user0", "from_user": "user1", "message": "asdasdasdasdasdasdasd"}' sent
+2020-07-28 11:35:11,516 INFO client b'{"action": "message", "time": "Tue Jul 28 11:35:03 2020", "to": "user2", "from_user": "user1", "message": "asdasdasdasdasdasdasd"}' sent
+2020-07-28 11:35:32,325 INFO client b'{"action": "message", "time": "Tue Jul 28 11:35:25 2020", "to": "user1", "from_user": "user2", "message": "sdfsdfsdfsdfsdf"}' sent
+2020-07-28 11:53:33,780 INFO logger logging started
+2020-07-28 11:53:33,781 INFO client client user0 started
+2020-07-28 11:53:33,823 INFO logger logging started
+2020-07-28 11:53:33,824 INFO client client user1 started
+2020-07-28 11:53:33,885 INFO logger logging started
+2020-07-28 11:53:33,886 INFO client client user2 started
+2020-07-28 11:53:53,848 INFO client b'{"action": "message", "time": "Tue Jul 28 11:53:43 2020", "to": "user1", "from_user": "user1", "message": "asdasdasdasdasd"}' sent
+2020-07-28 11:54:38,619 INFO logger logging started
+2020-07-28 11:54:38,620 INFO client client user0 started
+2020-07-28 11:54:38,663 INFO logger logging started
+2020-07-28 11:54:38,664 INFO client client user1 started
+2020-07-28 11:54:38,702 INFO logger logging started
+2020-07-28 11:54:38,703 INFO client client user2 started
+2020-07-28 11:54:57,144 INFO client b'{"action": "message", "time": "Tue Jul 28 11:54:50 2020", "to": "user0", "from_user": "user1", "message": "asdasdasdasd"}' sent
+2020-07-28 11:55:15,033 INFO client b'{"action": "message", "time": "Tue Jul 28 11:55:04 2020", "to": "user2", "from_user": "user1", "message": "sdfffffffffffffffffffffffff"}' sent
+2020-07-28 13:39:01,660 INFO logger logging started
+2020-07-28 13:39:01,661 INFO client client user0 started
+2020-07-28 13:39:01,710 INFO logger logging started
+2020-07-28 13:39:01,711 INFO client client user1 started
+2020-07-28 13:39:01,738 INFO logger logging started
+2020-07-28 13:39:01,740 INFO client client user2 started
+2020-07-28 13:40:41,051 INFO logger logging started
+2020-07-28 13:40:41,052 INFO client client user0 started
+2020-07-28 13:40:41,089 INFO logger logging started
+2020-07-28 13:40:41,089 INFO client client user1 started
+2020-07-28 13:40:41,131 INFO logger logging started
+2020-07-28 13:40:41,132 INFO client client user2 started
+2020-07-28 13:41:05,796 INFO client b'{"action": "message", "time": "Tue Jul 28 13:40:55 2020", "to": "user0", "from_user": "user2", "message": "123123aasdasdasd\\u0444\\u0432\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432\\u0444\\u044b"}' sent
+2020-07-28 13:41:33,807 INFO client b'{"action": "message", "time": "Tue Jul 28 13:41:26 2020", "to": "user0", "from_user": "user2", "message": "asdasdasd"}' sent
+2020-07-28 13:41:42,086 INFO client b'{"action": "message", "time": "Tue Jul 28 13:41:38 2020", "to": "user1", "from_user": "user2", "message": "asdasd"}' sent
+2020-07-28 13:42:54,051 INFO client b'{"action": "message", "time": "Tue Jul 28 13:42:47 2020", "to": "user2", "from_user": "user0", "message": "asdasdasdasd"}' sent
+2020-07-28 13:43:24,178 INFO logger logging started
+2020-07-28 13:43:24,179 INFO client client user0 started
+2020-07-28 13:43:24,201 INFO logger logging started
+2020-07-28 13:43:24,202 INFO client client user1 started
+2020-07-28 13:43:24,244 INFO logger logging started
+2020-07-28 13:43:24,245 INFO client client user2 started
+2020-07-28 13:43:35,373 INFO client b'{"action": "message", "time": "Tue Jul 28 13:43:30 2020", "to": "user1", "from_user": "user2", "message": "asdasdasd"}' sent
+2020-07-28 13:44:27,948 INFO logger logging started
+2020-07-28 13:44:27,950 INFO client client user0 started
+2020-07-28 13:44:27,976 INFO logger logging started
+2020-07-28 13:44:27,977 INFO client client user1 started
+2020-07-28 13:44:28,013 INFO logger logging started
+2020-07-28 13:44:28,014 INFO client client user2 started
+2020-07-28 13:44:40,136 INFO client b'{"action": "message", "time": "Tue Jul 28 13:44:35 2020", "to": "user1", "from_user": "user2", "message": "asdasdasd"}' sent
+2020-07-28 13:44:47,735 INFO client b'{"action": "message", "time": "Tue Jul 28 13:44:42 2020", "to": "user1", "from_user": "user2", "message": "\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432\\u0444\\u044b\\u0432"}' sent
