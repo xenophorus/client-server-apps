@@ -1,4 +1,5 @@
 from socket import SOCK_STREAM, AF_INET, socket
+import argparse
 
 from lib.decorators import log_dec
 from lib.funx import *
@@ -42,7 +43,7 @@ def get_loop(sock, client_name):
 def send_loop(*args):
     sock, client_name = args
     while True:
-        key = input(f'Введите команду: "q" для выхода, "m" для нового сообщения: ')
+        key = input(f'Введите команду: "q" для выхода, "m" для нового сообщения:\n')
         if key == 'q':
             sys.exit()
         elif key == 'm':
@@ -67,11 +68,17 @@ def mainloop(address, client_name):
 
 @log_dec
 def main(*args):
-    log.info('client started')
-    address, client_name = parse_args(args[1:])
-    print(address, client_name)
+    parser = argparse.ArgumentParser(description='Client app')
+    parser.add_argument('-p', action='store', dest='prt', type=int)
+    parser.add_argument('-d', action='store', dest='ip')
+    parser.add_argument('-n', action='store', dest='name')
+    args = parser.parse_args()
 
-    mainloop(address, client_name)
+    log.info('client started')
+    #  address, client_name = parse_args(args[1:])
+    print((args.ip, args.prt), args.name)
+
+    mainloop((args.ip, args.prt), args.name)
 
 
 if __name__ == '__main__':
