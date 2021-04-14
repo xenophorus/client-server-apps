@@ -1,0 +1,378 @@
+2020-07-19 14:00:23,008 INFO logger logging started
+2020-07-19 14:00:23,009 INFO client client started
+2020-07-19 14:00:31,067 INFO logger logging started
+2020-07-19 14:00:31,068 INFO client client started
+2020-07-19 14:00:33,328 DEBUG client message complete, time:Sun Jul 19 14:00:31 2020
+2020-07-19 14:00:34,103 INFO client b'{"action": "message", "time": "Sun Jul 19 14:00:31 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}' received
+2020-07-19 14:00:34,127 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:00:39,072 DEBUG client message complete, time:Sun Jul 19 14:00:23 2020
+2020-07-19 14:00:39,073 INFO client b'{"action": "message", "time": "Sun Jul 19 14:00:31 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}' received
+2020-07-19 14:00:39,095 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:00:41,087 DEBUG client message complete, time:Sun Jul 19 14:00:39 2020
+2020-07-19 14:01:17,390 INFO logger logging started
+2020-07-19 14:01:17,391 INFO client client started
+2020-07-19 14:01:19,304 DEBUG client message complete, time:Sun Jul 19 14:01:17 2020
+2020-07-19 14:01:19,413 INFO client b'{"action": "message", "time": "Sun Jul 19 14:01:17 2020", "to": "Alex", "from_user": "Nick", "message": "sdffffffffffffffffsdffffffffffffffff"}' received
+2020-07-19 14:01:19,451 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:01:21,639 DEBUG client message complete, time:Sun Jul 19 14:01:19 2020
+2020-07-19 14:01:21,640 INFO client b'{"action": "message", "time": "Sun Jul 19 14:01:19 2020", "to": "All", "from_user": "Nick", "message": "message sent"}' received
+2020-07-19 14:01:21,642 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:01:23,792 DEBUG client message complete, time:Sun Jul 19 14:01:21 2020
+2020-07-19 14:06:31,163 INFO logger logging started
+2020-07-19 14:06:31,163 INFO client client started
+2020-07-19 14:06:39,589 INFO logger logging started
+2020-07-19 14:06:39,591 INFO client client started
+2020-07-19 14:06:41,720 DEBUG client message complete, time:Sun Jul 19 14:06:39 2020
+2020-07-19 14:06:42,608 INFO client b'{"action": "message", "time": "Sun Jul 19 14:06:39 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}' received
+2020-07-19 14:06:42,658 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:06:45,270 DEBUG client message complete, time:Sun Jul 19 14:06:42 2020
+2020-07-19 14:06:45,271 INFO client b'{"action": "message", "time": "Sun Jul 19 14:06:42 2020", "to": "All", "from_user": "Nick", "message": "message sent"}' received
+2020-07-19 14:06:45,273 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:06:48,678 DEBUG client message complete, time:Sun Jul 19 14:06:45 2020
+2020-07-19 14:11:00,661 INFO logger logging started
+2020-07-19 14:11:00,661 INFO client client started
+2020-07-19 14:11:02,982 DEBUG client message complete, time:Sun Jul 19 14:11:00 2020
+2020-07-19 14:11:03,683 INFO client b'{"action": "message", "time": "Sun Jul 19 14:11:00 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}' received
+2020-07-19 14:11:03,750 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:11:06,414 DEBUG client message complete, time:Sun Jul 19 14:11:03 2020
+2020-07-19 14:11:06,415 INFO client b'{"action": "message", "time": "Sun Jul 19 14:11:03 2020", "to": "All", "from_user": "Nick", "message": "message sent"}' received
+2020-07-19 14:11:06,417 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:11:09,382 DEBUG client message complete, time:Sun Jul 19 14:11:06 2020
+2020-07-19 14:30:47,785 INFO logger logging started
+2020-07-19 14:30:47,790 INFO client client started
+2020-07-19 14:30:50,903 INFO logger logging started
+2020-07-19 14:30:50,908 INFO client client started
+2020-07-19 14:30:57,396 DEBUG client message complete, time:Sun Jul 19 14:30:50 2020
+2020-07-19 14:50:06,024 INFO logger logging started
+2020-07-19 14:50:06,028 INFO client client started
+2020-07-19 14:50:08,082 DEBUG funx message complete, time:Sun Jul 19 14:50:08 2020
+2020-07-19 14:50:47,323 INFO logger logging started
+2020-07-19 14:50:47,324 INFO client client started
+2020-07-19 14:50:53,020 DEBUG funx message complete, time:Sun Jul 19 14:50:53 2020
+2020-07-19 14:53:20,158 INFO logger logging started
+2020-07-19 14:53:20,159 INFO client client started
+2020-07-19 14:53:24,499 DEBUG funx message complete, time:Sun Jul 19 14:53:24 2020
+2020-07-19 14:53:25,200 INFO funx Message from Nick to Alex received at Sun Jul 19 14:53:24 2020 
+	eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+2020-07-19 14:53:25,200 INFO client b'{"action": "message", "time": "Sun Jul 19 14:53:24 2020", "to": "Alex", "from_user": "Nick", "message": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}' received
+2020-07-19 14:53:25,274 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:53:30,683 DEBUG funx message complete, time:Sun Jul 19 14:53:30 2020
+2020-07-19 14:53:30,683 CRITICAL client Something wrong. No answer from server.
+		[WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2020-07-19 14:55:32,241 INFO logger logging started
+2020-07-19 14:55:32,242 INFO client client started
+2020-07-19 14:55:36,536 DEBUG funx message complete, time:Sun Jul 19 14:55:36 2020
+2020-07-19 14:55:37,297 INFO funx Message from Nick to Alex received at Sun Jul 19 14:55:36 2020 
+	ффффффффффффффффффффффффффффффффффффффффффффф
+2020-07-19 14:55:37,297 INFO client b'{"action": "message", "time": "Sun Jul 19 14:55:36 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 14:55:37,411 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:55:40,338 DEBUG funx message complete, time:Sun Jul 19 14:55:40 2020
+2020-07-19 14:55:40,339 INFO funx Message from Nick to Alex received at Sun Jul 19 14:55:37 2020 
+	message sent
+2020-07-19 14:55:40,339 INFO client b'{"action": "message", "time": "Sun Jul 19 14:55:37 2020", "to": "Alex", "from_user": "Nick", "message": "message sent"}' received
+2020-07-19 14:55:40,340 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 14:55:43,082 DEBUG funx message complete, time:Sun Jul 19 14:55:43 2020
+2020-07-19 15:11:22,208 INFO logger logging started
+2020-07-19 15:11:22,209 INFO client client started
+2020-07-19 15:11:26,121 DEBUG funx message complete, time:Sun Jul 19 15:11:26 2020
+2020-07-19 15:11:26,258 INFO funx Message from Nick to Alex received at Sun Jul 19 15:11:26 2020 
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2020-07-19 15:11:26,258 INFO client b'{"action": "message", "time": "Sun Jul 19 15:11:26 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}' received
+2020-07-19 15:11:26,329 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:11:30,161 DEBUG funx message complete, time:Sun Jul 19 15:11:30 2020
+2020-07-19 15:11:30,161 INFO funx Message from Nick to Alex received at Sun Jul 19 15:11:26 2020 
+	message sent
+2020-07-19 15:11:30,161 INFO client b'{"action": "message", "time": "Sun Jul 19 15:11:26 2020", "to": "Alex", "from_user": "Nick", "message": "message sent"}' received
+2020-07-19 15:11:30,162 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:11:32,607 DEBUG funx message complete, time:Sun Jul 19 15:11:32 2020
+2020-07-19 15:19:25,873 INFO logger logging started
+2020-07-19 15:19:25,874 INFO client client started
+2020-07-19 15:19:31,453 DEBUG funx message complete, time:Sun Jul 19 15:19:31 2020
+2020-07-19 15:36:01,769 INFO logger logging started
+2020-07-19 15:36:01,769 INFO client client started
+2020-07-19 15:36:05,183 DEBUG funx message complete, time:Sun Jul 19 15:36:05 2020
+2020-07-19 15:36:05,817 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:05 2020 
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2020-07-19 15:36:05,817 INFO client b'{"action": "message", "time": "Sun Jul 19 15:36:05 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}' received
+2020-07-19 15:36:05,914 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:36:07,799 DEBUG funx message complete, time:Sun Jul 19 15:36:07 2020
+2020-07-19 15:36:07,836 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:07 2020 
+	aaaaaaaaaaaaaaaaaaaaaaaaaaa
+2020-07-19 15:36:07,836 INFO client b'{"action": "message", "time": "Sun Jul 19 15:36:07 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaa"}' received
+2020-07-19 15:36:07,839 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:36:10,031 DEBUG funx message complete, time:Sun Jul 19 15:36:10 2020
+2020-07-19 15:36:10,866 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:10 2020 
+	aaaaaaaaaaaaaaaaaaaaaaaa
+2020-07-19 15:36:10,866 INFO client b'{"action": "message", "time": "Sun Jul 19 15:36:10 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaa"}' received
+2020-07-19 15:36:10,869 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:36:12,838 DEBUG funx message complete, time:Sun Jul 19 15:36:12 2020
+2020-07-19 15:36:12,880 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:12 2020 
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2020-07-19 15:36:12,880 INFO client b'{"action": "message", "time": "Sun Jul 19 15:36:12 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}' received
+2020-07-19 15:36:12,883 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:36:14,470 DEBUG funx message complete, time:Sun Jul 19 15:36:14 2020
+2020-07-19 15:36:14,902 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:14 2020 
+	aaaaaaaaaaaa
+2020-07-19 15:36:14,902 INFO client b'{"action": "message", "time": "Sun Jul 19 15:36:14 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaa"}' received
+2020-07-19 15:36:14,905 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:36:22,876 INFO logger logging started
+2020-07-19 15:36:22,882 INFO client client started
+2020-07-19 15:36:30,576 INFO logger logging started
+2020-07-19 15:36:30,581 INFO client client started
+2020-07-19 15:36:33,071 DEBUG funx message complete, time:Sun Jul 19 15:36:33 2020
+2020-07-19 15:36:33,602 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:33 2020 
+	fffffffffffffffffffffffff
+2020-07-19 15:36:33,602 INFO client b'{"action": "message", "time": "Sun Jul 19 15:36:33 2020", "to": "Alex", "from_user": "Nick", "message": "fffffffffffffffffffffffff"}' received
+2020-07-19 15:36:33,636 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:36:34,798 DEBUG funx message complete, time:Sun Jul 19 15:36:34 2020
+2020-07-19 15:36:35,615 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:34 2020 
+	fffff
+2020-07-19 15:36:35,617 INFO client b'{"action": "message", "time": "Sun Jul 19 15:36:34 2020", "to": "Alex", "from_user": "Nick", "message": "fffff"}' received
+2020-07-19 15:36:35,622 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:36:36,550 DEBUG funx message complete, time:Sun Jul 19 15:36:36 2020
+2020-07-19 15:36:36,616 INFO funx Message from Nick to Alex received at Sun Jul 19 15:36:36 2020 
+	fffffffffffffffffffffffff
+2020-07-19 15:36:36,617 INFO client b'{"action": "message", "time": "Sun Jul 19 15:36:36 2020", "to": "Alex", "from_user": "Nick", "message": "fffffffffffffffffffffffff"}' received
+2020-07-19 15:36:36,619 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:36:39,086 DEBUG funx message complete, time:Sun Jul 19 15:36:39 2020
+2020-07-19 15:36:59,925 INFO logger logging started
+2020-07-19 15:36:59,930 INFO client client started
+2020-07-19 15:37:02,006 DEBUG funx message complete, time:Sun Jul 19 15:37:02 2020
+2020-07-19 15:37:02,963 INFO funx Message from Nick to Alex received at Sun Jul 19 15:37:02 2020 
+	ddddddddddddd
+2020-07-19 15:37:02,963 INFO client b'{"action": "message", "time": "Sun Jul 19 15:37:02 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddddd"}' received
+2020-07-19 15:37:02,998 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:37:05,606 DEBUG funx message complete, time:Sun Jul 19 15:37:05 2020
+2020-07-19 15:37:06,004 INFO funx Message from Nick to Alex received at Sun Jul 19 15:37:05 2020 
+	dddddddddddddddddddddddddddddddddddddddd
+2020-07-19 15:37:06,005 INFO client b'{"action": "message", "time": "Sun Jul 19 15:37:05 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddddddddddddddddddddddddddddd"}' received
+2020-07-19 15:37:06,010 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 15:37:09,326 DEBUG funx message complete, time:Sun Jul 19 15:37:09 2020
+2020-07-19 16:08:42,600 INFO logger logging started
+2020-07-19 16:08:42,629 INFO client client started
+2020-07-19 16:08:44,835 DEBUG funx message complete, time:Sun Jul 19 16:08:44 2020
+2020-07-19 16:19:30,525 INFO logger logging started
+2020-07-19 16:19:30,525 INFO client client started
+2020-07-19 16:19:33,211 DEBUG funx message complete, time:Sun Jul 19 16:19:33 2020
+2020-07-19 16:20:41,990 INFO logger logging started
+2020-07-19 16:20:41,991 INFO client client started
+2020-07-19 16:20:44,524 DEBUG funx message complete, time:Sun Jul 19 16:20:44 2020
+2020-07-19 16:20:45,008 INFO funx Message from Nick to all received at Sun Jul 19 16:20:44 2020 
+	фффффффффффффффффф
+2020-07-19 16:20:45,008 INFO client b'message\nSun Jul 19 16:20:44 2020\nall\nNick\n\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84' received
+2020-07-19 16:20:45,100 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:20:49,828 DEBUG funx message complete, time:Sun Jul 19 16:20:49 2020
+2020-07-19 16:20:50,063 INFO funx Message from Nick to all received at Sun Jul 19 16:20:49 2020 
+	фффффф
+2020-07-19 16:20:50,063 INFO client b'message\nSun Jul 19 16:20:49 2020\nall\nNick\n\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84' received
+2020-07-19 16:20:50,066 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:20:51,274 DEBUG funx message complete, time:Sun Jul 19 16:20:51 2020
+2020-07-19 16:20:52,085 INFO funx Message from Nick to all received at Sun Jul 19 16:20:51 2020 
+	ффффффф
+2020-07-19 16:20:52,085 INFO client b'message\nSun Jul 19 16:20:51 2020\nall\nNick\n\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84' received
+2020-07-19 16:20:52,089 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:20:52,923 DEBUG funx message complete, time:Sun Jul 19 16:20:52 2020
+2020-07-19 16:20:53,092 INFO funx Message from Nick to all received at Sun Jul 19 16:20:52 2020 
+	ффффффф
+2020-07-19 16:20:53,092 INFO client b'message\nSun Jul 19 16:20:52 2020\nall\nNick\n\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84' received
+2020-07-19 16:20:53,095 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:20:54,858 DEBUG funx message complete, time:Sun Jul 19 16:20:54 2020
+2020-07-19 16:20:55,116 INFO funx Message from Nick to all received at Sun Jul 19 16:20:54 2020 
+	фффффффффффффффффф
+2020-07-19 16:20:55,116 INFO client b'message\nSun Jul 19 16:20:54 2020\nall\nNick\n\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84\xd1\x84' received
+2020-07-19 16:20:55,119 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:20:55,666 DEBUG funx message complete, time:Sun Jul 19 16:20:55 2020
+2020-07-19 16:20:56,125 INFO funx Message from Nick to all received at Sun Jul 19 16:20:55 2020 
+	ф
+2020-07-19 16:20:56,125 INFO client b'message\nSun Jul 19 16:20:55 2020\nall\nNick\n\xd1\x84' received
+2020-07-19 16:20:56,128 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:20:56,667 DEBUG funx message complete, time:Sun Jul 19 16:20:56 2020
+2020-07-19 16:20:57,132 INFO funx Message from Nick to all received at Sun Jul 19 16:20:56 2020 
+	
+2020-07-19 16:20:57,132 INFO client b'message\nSun Jul 19 16:20:56 2020\nall\nNick\n' received
+2020-07-19 16:20:57,135 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:21:10,361 INFO logger logging started
+2020-07-19 16:21:10,362 INFO client client started
+2020-07-19 16:21:15,109 INFO logger logging started
+2020-07-19 16:21:15,110 INFO client client started
+2020-07-19 16:21:21,962 DEBUG funx message complete, time:Sun Jul 19 16:21:21 2020
+2020-07-19 16:21:22,026 INFO funx Message from Nick to all received at Sun Jul 19 16:21:21 2020 
+	aaaaaaaaaaaaaaaa
+2020-07-19 16:21:22,027 INFO client b'message\nSun Jul 19 16:21:21 2020\nall\nNick\naaaaaaaaaaaaaaaa' received
+2020-07-19 16:21:22,055 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:21:31,186 DEBUG funx message complete, time:Sun Jul 19 16:21:31 2020
+2020-07-19 16:21:32,127 INFO funx Message from Nick to all received at Sun Jul 19 16:21:31 2020 
+	aaaaaaaa
+2020-07-19 16:21:32,128 INFO client b'message\nSun Jul 19 16:21:31 2020\nall\nNick\naaaaaaaa' received
+2020-07-19 16:21:32,133 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:21:34,370 DEBUG funx message complete, time:Sun Jul 19 16:21:34 2020
+2020-07-19 16:23:57,319 INFO logger logging started
+2020-07-19 16:23:57,320 INFO client client started
+2020-07-19 16:24:02,819 DEBUG funx message complete, time:Sun Jul 19 16:24:02 2020
+2020-07-19 16:24:03,381 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:02 2020 
+	ффффффффффффффффффффффффффф
+2020-07-19 16:24:03,382 INFO client b'{"action": "message", "time": "Sun Jul 19 16:24:02 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:24:03,474 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:24:09,743 DEBUG funx message complete, time:Sun Jul 19 16:24:09 2020
+2020-07-19 16:24:10,441 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:09 2020 
+	фффффффффффффффффффффффффф
+2020-07-19 16:24:10,442 INFO client b'{"action": "message", "time": "Sun Jul 19 16:24:09 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:24:10,446 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:24:12,202 DEBUG funx message complete, time:Sun Jul 19 16:24:12 2020
+2020-07-19 16:24:12,456 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:12 2020 
+	ффф
+2020-07-19 16:24:12,456 INFO client b'{"action": "message", "time": "Sun Jul 19 16:24:12 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:24:12,460 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:24:13,722 DEBUG funx message complete, time:Sun Jul 19 16:24:13 2020
+2020-07-19 16:24:14,478 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:13 2020 
+	фф
+2020-07-19 16:24:14,479 INFO client b'{"action": "message", "time": "Sun Jul 19 16:24:13 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444"}' received
+2020-07-19 16:24:14,483 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:24:16,690 DEBUG funx message complete, time:Sun Jul 19 16:24:16 2020
+2020-07-19 16:24:17,505 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:16 2020 
+	фффффффффффффффффффффффф
+2020-07-19 16:24:17,505 INFO client b'{"action": "message", "time": "Sun Jul 19 16:24:16 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:24:17,509 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:24:18,542 DEBUG funx message complete, time:Sun Jul 19 16:24:18 2020
+2020-07-19 16:24:19,517 INFO funx Message from Nick to Alex received at Sun Jul 19 16:24:18 2020 
+	ф
+2020-07-19 16:24:19,518 INFO client b'{"action": "message", "time": "Sun Jul 19 16:24:18 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444"}' received
+2020-07-19 16:24:19,522 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:25:50,002 INFO logger logging started
+2020-07-19 16:25:50,002 INFO client client started
+2020-07-19 16:25:57,969 DEBUG funx message complete, time:Sun Jul 19 16:25:57 2020
+2020-07-19 16:25:58,039 INFO funx Message from Nick to Alex received at Sun Jul 19 16:25:57 2020 
+	ффффффффффффффф
+2020-07-19 16:25:58,039 INFO client b'{"action": "message", "time": "Sun Jul 19 16:25:57 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:25:58,128 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:26:03,539 DEBUG funx message complete, time:Sun Jul 19 16:26:03 2020
+2020-07-19 16:26:04,111 INFO funx Message from Nick to Alex received at Sun Jul 19 16:26:03 2020 
+	ффффффффффффффффффффф
+2020-07-19 16:26:04,111 INFO client b'{"action": "message", "time": "Sun Jul 19 16:26:03 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:26:04,115 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:26:06,902 DEBUG funx message complete, time:Sun Jul 19 16:26:06 2020
+2020-07-19 16:26:07,139 INFO funx Message from Nick to Alex received at Sun Jul 19 16:26:06 2020 
+	фффффф
+2020-07-19 16:26:07,140 INFO client b'{"action": "message", "time": "Sun Jul 19 16:26:06 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:26:07,144 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:26:10,026 DEBUG funx message complete, time:Sun Jul 19 16:26:10 2020
+2020-07-19 16:26:10,168 INFO funx Message from Nick to Alex received at Sun Jul 19 16:26:10 2020 
+	ффффффффффффффффф
+2020-07-19 16:26:10,168 INFO client b'{"action": "message", "time": "Sun Jul 19 16:26:10 2020", "to": "Alex", "from_user": "Nick", "message": "\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444\\u0444"}' received
+2020-07-19 16:26:10,170 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:29:54,661 INFO logger logging started
+2020-07-19 16:29:54,662 INFO client client started
+2020-07-19 16:30:01,066 DEBUG funx message complete, time:Sun Jul 19 16:30:01 2020
+2020-07-19 16:30:01,412 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:01 2020 
+	asdasdasdasdasd
+2020-07-19 16:30:01,412 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:01 2020", "to": "Alex", "from_user": "Nick", "message": "asdasdasdasdasd"}' received
+2020-07-19 16:30:01,517 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:30:06,538 DEBUG funx message complete, time:Sun Jul 19 16:30:06 2020
+2020-07-19 16:30:07,463 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:06 2020 
+	asddddddddddddddddd
+2020-07-19 16:30:07,463 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:06 2020", "to": "Alex", "from_user": "Nick", "message": "asddddddddddddddddd"}' received
+2020-07-19 16:30:07,465 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:30:11,481 DEBUG funx message complete, time:Sun Jul 19 16:30:11 2020
+2020-07-19 16:30:11,494 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:11 2020 
+	aaaaaaaaaaaaaaaadddddddddddddddd
+2020-07-19 16:30:11,494 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:11 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaadddddddddddddddd"}' received
+2020-07-19 16:30:11,496 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:30:14,153 DEBUG funx message complete, time:Sun Jul 19 16:30:14 2020
+2020-07-19 16:30:14,517 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:14 2020 
+	aaaaaaaaaaaaadddddddddddd
+2020-07-19 16:30:14,518 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:14 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaadddddddddddd"}' received
+2020-07-19 16:30:14,522 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:30:17,826 DEBUG funx message complete, time:Sun Jul 19 16:30:17 2020
+2020-07-19 16:30:18,543 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:17 2020 
+	aaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddd
+2020-07-19 16:30:18,543 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:17 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddd"}' received
+2020-07-19 16:30:18,547 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:30:19,345 DEBUG funx message complete, time:Sun Jul 19 16:30:19 2020
+2020-07-19 16:30:19,550 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:19 2020 
+	aaaaa
+2020-07-19 16:30:19,550 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:19 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaa"}' received
+2020-07-19 16:30:19,554 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:30:20,865 DEBUG funx message complete, time:Sun Jul 19 16:30:20 2020
+2020-07-19 16:30:21,563 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:20 2020 
+	dddddddddddddd
+2020-07-19 16:30:21,563 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:20 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddd"}' received
+2020-07-19 16:30:21,567 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:30:22,033 DEBUG funx message complete, time:Sun Jul 19 16:30:22 2020
+2020-07-19 16:30:22,570 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:22 2020 
+	aaaa
+2020-07-19 16:30:22,570 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:22 2020", "to": "Alex", "from_user": "Nick", "message": "aaaa"}' received
+2020-07-19 16:30:22,575 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:30:23,369 DEBUG funx message complete, time:Sun Jul 19 16:30:23 2020
+2020-07-19 16:30:23,580 INFO funx Message from Nick to Alex received at Sun Jul 19 16:30:23 2020 
+	ddddddddddd
+2020-07-19 16:30:23,581 INFO client b'{"action": "message", "time": "Sun Jul 19 16:30:23 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddd"}' received
+2020-07-19 16:30:23,585 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:31:11,750 INFO logger logging started
+2020-07-19 16:31:11,750 INFO client client started
+2020-07-19 16:31:13,889 DEBUG funx message complete, time:Sun Jul 19 16:31:13 2020
+2020-07-19 16:31:14,764 INFO client b'{"action": "message", "time": "Sun Jul 19 16:31:13 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaa"}' received
+2020-07-19 16:31:14,835 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:31:16,762 DEBUG funx message complete, time:Sun Jul 19 16:31:16 2020
+2020-07-19 16:31:16,775 INFO client b'{"action": "message", "time": "Sun Jul 19 16:31:16 2020", "to": "Alex", "from_user": "Nick", "message": "ddddddddddddddd"}' received
+2020-07-19 16:31:16,777 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:31:21,225 DEBUG funx message complete, time:Sun Jul 19 16:31:21 2020
+2020-07-19 16:31:21,820 INFO client b'{"action": "message", "time": "Sun Jul 19 16:31:21 2020", "to": "Alex", "from_user": "Nick", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaa"}' received
+2020-07-19 16:31:21,822 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
+2020-07-19 16:31:24,370 DEBUG funx message complete, time:Sun Jul 19 16:31:24 2020
+2020-07-19 16:31:24,850 INFO client b'{"action": "message", "time": "Sun Jul 19 16:31:24 2020", "to": "Alex", "from_user": "Nick", "message": "dddddddddddddddddddddddddddddddddddd"}' received
+2020-07-19 16:31:24,854 DEBUG decorators Отработала фуккция decfn с параметрами ((), {})
+		вызванная mainloop
