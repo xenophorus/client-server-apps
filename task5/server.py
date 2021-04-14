@@ -1,7 +1,9 @@
 import sys
 import json
 from socket import SOCK_STREAM, socket
+
 import funx
+import server_logger
 
 
 def decoder(data):
@@ -10,8 +12,7 @@ def decoder(data):
     to = data.get('to')
     from_user = data.get('from_user')
     message = data.get('message')
-    print(f'{time}: from {from_user} to {to}\n\t'
-          f'{message}')
+    server_logger.LOG.info(f'{time}: from {from_user} to {to}\n\t{message}')
 
 
 def create_server(addr):
@@ -23,17 +24,21 @@ def create_server(addr):
         while True:
             data = conn.recv(1024)
             decoder(data)
-            ans = 'Message received'.encode('utf-8')
+            ans = '200'.encode('utf-8')
             conn.send(ans)
     finally:
+        server_logger.LOG.info('Connection closed')
         conn.close()
 
 
-def start(args):
+def main(args):
     if len(args) > 1:
         create_server(funx.parse_args(args[1:]))
     else:
         create_server(('127.0.0.1', 9090))
 
 
-start(sys.argv)
+if __name__ == '__main__':
+    server_logger.logging.basicConfig(filename='log/server.log')
+    server_logger.LOG.info('server started')
+    main(sys.argv)
