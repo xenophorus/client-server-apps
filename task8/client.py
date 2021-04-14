@@ -2,7 +2,6 @@ from socket import SOCK_STREAM, AF_INET, socket
 import argparse
 
 from lib.decorators import log_dec
-from lib.funx import *
 from lib.logger import *
 from threading import Thread
 from lib.classes import Message
@@ -73,11 +72,8 @@ def main(*args):
     parser.add_argument('-d', action='store', dest='ip')
     parser.add_argument('-n', action='store', dest='name')
     args = parser.parse_args()
-
-    log.info('client started')
-    #  address, client_name = parse_args(args[1:])
+    log.info(f'client {args.name} started')
     print((args.ip, args.prt), args.name)
-
     mainloop((args.ip, args.prt), args.name)
 
 
